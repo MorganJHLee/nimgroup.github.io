@@ -115,8 +115,8 @@ params:
         hiddenInSingle: true
     label:
       text: "NIMGroup"
-      icon: favicon.ico
-      iconHeight: 18
+      icon: logo.png
+      iconHeight: 40
 
 markup:
     goldmark:
