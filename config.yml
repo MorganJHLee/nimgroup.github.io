@@ -65,7 +65,7 @@ params:
           enabled: true
           title: NIMGroup
           subtitle: "We are a research group working at the intersection of artificial intelligence and intelligent medicine. Our work spans machine learning, neural navigation, and image-enabled brain-computer interfaces, with the goal of advancing AI-driven solutions for smart healthcare."
-          imageUrl: "picture.jpeg"
+          imageUrl: "logo.png"
           imageWidth: 160
           imageHeight: 160
           buttons:
