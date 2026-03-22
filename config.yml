@@ -12,21 +12,30 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
+        - name: About
+          url: about/
+          weight: 1
+        - name: Research
+          url: research/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Publication
+          url: publications/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        - name: Member
+          url: members/
+          weight: 4
+        - name: Teaching
+          url: teaching/
+          weight: 5
+        - name: Source
+          url: source/
           weight: 6
+        - name: News
+          url: news/
+          weight: 7
+        - name: Contact
+          url: contact/
+          weight: 8
 
 params:
     description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
@@ -44,7 +53,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["publications","research","source","news","teaching"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -60,20 +69,20 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: About
+              url: about/
+            - name: Research
+              url: research/
+            - name: Publication
+              url: publications/
+            - name: Member
+              url: members/
+            - name: Teaching
+              url: teaching/
+            - name: News
+              url: news/
+            - name: Contact
+              url: contact/
 
     socialIcons:
         - name: CV

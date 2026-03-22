@@ -1,0 +1,113 @@
+# NIM Group Members
+# Fields: name, role, email, photo (path relative to /static/)
+# Add member photos to static/members/ directory
+
+- name: "PI Name"
+  role: "Professor"
+  email: "pi@institution.edu"
+  photo: "/members/pi.jpg"
+
+- name: "Member 2"
+  role: "Postdoctoral Researcher"
+  email: "member2@institution.edu"
+  photo: "/members/member2.jpg"
+
+- name: "Member 3"
+  role: "Postdoctoral Researcher"
+  email: "member3@institution.edu"
+  photo: "/members/member3.jpg"
+
+- name: "Member 4"
+  role: "PhD Student"
+  email: "member4@institution.edu"
+  photo: "/members/member4.jpg"
+
+- name: "Member 5"
+  role: "PhD Student"
+  email: "member5@institution.edu"
+  photo: "/members/member5.jpg"
+
+- name: "Member 6"
+  role: "PhD Student"
+  email: "member6@institution.edu"
+  photo: "/members/member6.jpg"
+
+- name: "Member 7"
+  role: "PhD Student"
+  email: "member7@institution.edu"
+  photo: "/members/member7.jpg"
+
+- name: "Member 8"
+  role: "PhD Student"
+  email: "member8@institution.edu"
+  photo: "/members/member8.jpg"
+
+- name: "Member 9"
+  role: "PhD Student"
+  email: "member9@institution.edu"
+  photo: "/members/member9.jpg"
+
+- name: "Member 10"
+  role: "PhD Student"
+  email: "member10@institution.edu"
+  photo: "/members/member10.jpg"
+
+- name: "Member 11"
+  role: "PhD Student"
+  email: "member11@institution.edu"
+  photo: "/members/member11.jpg"
+
+- name: "Member 12"
+  role: "PhD Student"
+  email: "member12@institution.edu"
+  photo: "/members/member12.jpg"
+
+- name: "Member 13"
+  role: "Master's Student"
+  email: "member13@institution.edu"
+  photo: "/members/member13.jpg"
+
+- name: "Member 14"
+  role: "Master's Student"
+  email: "member14@institution.edu"
+  photo: "/members/member14.jpg"
+
+- name: "Member 15"
+  role: "Master's Student"
+  email: "member15@institution.edu"
+  photo: "/members/member15.jpg"
+
+- name: "Member 16"
+  role: "Master's Student"
+  email: "member16@institution.edu"
+  photo: "/members/member16.jpg"
+
+- name: "Member 17"
+  role: "Master's Student"
+  email: "member17@institution.edu"
+  photo: "/members/member17.jpg"
+
+- name: "Member 18"
+  role: "Master's Student"
+  email: "member18@institution.edu"
+  photo: "/members/member18.jpg"
+
+- name: "Member 19"
+  role: "Research Assistant"
+  email: "member19@institution.edu"
+  photo: "/members/member19.jpg"
+
+- name: "Member 20"
+  role: "Research Assistant"
+  email: "member20@institution.edu"
+  photo: "/members/member20.jpg"
+
+- name: "Member 21"
+  role: "Visiting Researcher"
+  email: "member21@institution.edu"
+  photo: "/members/member21.jpg"
+
+- name: "Member 22"
+  role: "Visiting Researcher"
+  email: "member22@institution.edu"
+  photo: "/members/member22.jpg"

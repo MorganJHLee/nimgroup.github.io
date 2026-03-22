@@ -1,0 +1,41 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <p class="members-desc">{{ .Description }}</p>
+  {{- end }}
+</header>
+
+{{- if .Content }}
+<div class="post-content">
+  {{ .Content }}
+</div>
+{{- end }}
+
+{{- with site.Data.members }}
+<div class="members-grid">
+  {{- range . }}
+  <div class="member-card">
+    {{- if .photo }}
+    <img src="{{ .photo }}" alt="{{ .name }}" class="member-photo"
+         onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+    <div class="member-photo member-photo-fallback" style="display:none">
+      <span>{{ substr .name 0 1 }}</span>
+    </div>
+    {{- else }}
+    <div class="member-photo member-photo-fallback">
+      <span>{{ substr .name 0 1 }}</span>
+    </div>
+    {{- end }}
+    <div class="member-info">
+      <p class="member-name">{{ .name }}</p>
+      {{- if .role }}<p class="member-role">{{ .role }}</p>{{- end }}
+      {{- if .email }}<a href="mailto:{{ .email }}" class="member-email">{{ .email }}</a>{{- end }}
+    </div>
+  </div>
+  {{- end }}
+</div>
+{{- end }}
+
+{{- end }}{{/* end main */}}
