@@ -1,0 +1,61 @@
+/* News – year-grouped list */
+
+.news-list {
+    margin-top: 16px;
+}
+
+.news-year-group {
+    margin-bottom: 32px;
+}
+
+.news-year-heading {
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--primary);
+    border-bottom: 2px solid var(--tertiary);
+    padding-bottom: 6px;
+    margin-bottom: 16px;
+}
+
+.news-entries {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.news-entry {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border);
+}
+
+.news-entry:last-child {
+    border-bottom: none;
+}
+
+.news-month {
+    flex-shrink: 0;
+    width: 36px;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--darkcolor);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+
+.news-content {
+    font-size: 15px;
+    color: var(--primary);
+    line-height: 1.5;
+    flex: 1;
+}
+
+.news-content p {
+    margin: 0;
+}
+
+.news-content a {
+    color: var(--darkcolor);
+}

@@ -1,0 +1,55 @@
+{{- define "main" }}
+
+<style>
+  /* Widen layout for members grid */
+  .main { max-width: calc(1100px + var(--gap) * 2); }
+  @media (min-width: 900px) {
+    .members-grid { grid-template-columns: repeat(5, 1fr); }
+  }
+</style>
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">{{ .Title }}</h1>
+  </header>
+
+  {{- if .Content }}
+  <div class="post-content">{{ .Content }}</div>
+  {{- end }}
+
+  {{- $members := site.Data.members.members }}
+  {{- if $members }}
+  <div class="members-grid">
+    {{- range $members }}
+    <div class="member-card">
+      <div class="member-photo">
+        {{- if .photo }}
+        <img src="{{ .photo | absURL }}" alt="{{ .name }}">
+        {{- else }}
+        <div class="member-photo-placeholder">{{ substr .name 0 1 | upper }}</div>
+        {{- end }}
+      </div>
+      <div class="member-info">
+        {{- if .url }}
+        <h3><a href="{{ .url }}" target="_blank">{{ .name }}</a></h3>
+        {{- else }}
+        <h3>{{ .name }}</h3>
+        {{- end }}
+        {{- with .role }}
+        <p class="member-role">{{ . }}</p>
+        {{- end }}
+        {{- with .year }}
+        <p class="member-year">{{ . }}</p>
+        {{- end }}
+        {{- with .email }}
+        <p class="member-email"><a href="mailto:{{ . }}">{{ . }}</a></p>
+        {{- end }}
+      </div>
+    </div>
+    {{- end }}
+  </div>
+  {{- end }}
+
+</article>
+
+{{- end }}{{- /* end main */ -}}

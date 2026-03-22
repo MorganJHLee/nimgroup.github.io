@@ -1,0 +1,107 @@
+/* Research projects – card grid */
+
+.research-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 28px;
+    margin-top: 16px;
+}
+
+.research-card {
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    transition: box-shadow 0.2s ease;
+}
+
+.research-card:hover {
+    box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+}
+
+.research-card-image {
+    width: 100%;
+    max-height: 200px;
+    overflow: hidden;
+}
+
+.research-card-image img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+}
+
+.research-card-body {
+    padding: 20px 24px 24px;
+}
+
+.research-status {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.research-status.ongoing {
+    background: #e8f4ea;
+    color: #2d7a38;
+}
+
+.research-status.completed {
+    background: #eee;
+    color: var(--secondary);
+}
+
+.research-card-body h2 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    line-height: 1.35;
+}
+
+.research-card-body h2 a {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.research-card-body h2 a:hover {
+    color: var(--darkcolor);
+}
+
+.research-desc {
+    font-size: 15px;
+    color: var(--secondary);
+    line-height: 1.55;
+    margin-bottom: 12px;
+}
+
+.research-collaborators,
+.research-funding {
+    font-size: 13px;
+    color: var(--secondary);
+    margin-bottom: 4px;
+}
+
+.research-card-link {
+    display: inline-block;
+    margin-top: 12px;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--darkcolor);
+    text-decoration: none;
+}
+
+.research-card-link:hover {
+    text-decoration: underline;
+}
+
+@media (min-width: 640px) {
+    .research-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
