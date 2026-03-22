@@ -1,0 +1,79 @@
+.members-desc {
+    color: var(--secondary);
+    margin-bottom: 1.5rem;
+}
+
+.members-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2.5rem 1.5rem;
+    margin: 2rem 0;
+}
+
+@media (max-width: 900px) {
+    .members-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (max-width: 600px) {
+    .members-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem 1rem;
+    }
+}
+
+.member-card {
+    text-align: center;
+}
+
+.member-photo {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 0.85rem;
+    background-color: var(--border);
+}
+
+.member-photo-fallback {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: var(--secondary);
+    background-color: var(--border);
+}
+
+.member-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+}
+
+.member-name {
+    font-weight: 600;
+    font-size: 0.95rem;
+    margin: 0;
+    line-height: 1.3;
+}
+
+.member-role {
+    color: var(--secondary);
+    font-size: 0.82rem;
+    margin: 0;
+}
+
+.member-email {
+    font-size: 0.78rem;
+    color: var(--secondary);
+    word-break: break-all;
+    text-decoration: none;
+}
+
+.member-email:hover {
+    text-decoration: underline;
+    color: var(--primary);
+}
