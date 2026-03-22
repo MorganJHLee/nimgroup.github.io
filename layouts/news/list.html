@@ -1,0 +1,29 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Content }}
+  <div class="post-content">{{ .Content }}</div>
+  {{- end }}
+</header>
+
+{{- $pages := .RegularPages | sort "Date" "desc" }}
+{{- $byYear := $pages.GroupByDate "2006" }}
+
+<div class="news-list">
+  {{- range $byYear }}
+  <div class="news-year-group">
+    <h2 class="news-year-heading">{{ .Key }}</h2>
+    <div class="news-entries">
+      {{- range .Pages }}
+      <div class="news-entry">
+        <span class="news-month">{{ .Date.Format "Jan" }}</span>
+        <div class="news-content">{{ .Content }}</div>
+      </div>
+      {{- end }}
+    </div>
+  </div>
+  {{- end }}
+</div>
+
+{{- end }}{{- /* end main */ -}}

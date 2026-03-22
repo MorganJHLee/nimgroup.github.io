@@ -1,0 +1,149 @@
+members:
+  # ── Principal Investigator ──────────────────────────────────────────────
+  - name: "PI Name"
+    role: "Principal Investigator"
+    email: "pi@university.edu"
+    photo: "/members/pi.jpg"
+    url: "/about/"
+
+  # ── Postdoctoral Researchers ────────────────────────────────────────────
+  - name: "Postdoc One"
+    role: "Postdoctoral Researcher"
+    email: "postdoc1@university.edu"
+    photo: "/members/postdoc1.jpg"
+
+  - name: "Postdoc Two"
+    role: "Postdoctoral Researcher"
+    email: "postdoc2@university.edu"
+    photo: "/members/postdoc2.jpg"
+
+  # ── PhD Students ────────────────────────────────────────────────────────
+  - name: "PhD Student One"
+    role: "PhD Student"
+    year: 2021
+    email: "phd1@university.edu"
+    photo: "/members/phd1.jpg"
+
+  - name: "PhD Student Two"
+    role: "PhD Student"
+    year: 2021
+    email: "phd2@university.edu"
+    photo: "/members/phd2.jpg"
+
+  - name: "PhD Student Three"
+    role: "PhD Student"
+    year: 2022
+    email: "phd3@university.edu"
+    photo: "/members/phd3.jpg"
+
+  - name: "PhD Student Four"
+    role: "PhD Student"
+    year: 2022
+    email: "phd4@university.edu"
+    photo: "/members/phd4.jpg"
+
+  - name: "PhD Student Five"
+    role: "PhD Student"
+    year: 2022
+    email: "phd5@university.edu"
+    photo: "/members/phd5.jpg"
+
+  - name: "PhD Student Six"
+    role: "PhD Student"
+    year: 2023
+    email: "phd6@university.edu"
+    photo: "/members/phd6.jpg"
+
+  - name: "PhD Student Seven"
+    role: "PhD Student"
+    year: 2023
+    email: "phd7@university.edu"
+    photo: "/members/phd7.jpg"
+
+  - name: "PhD Student Eight"
+    role: "PhD Student"
+    year: 2023
+    email: "phd8@university.edu"
+    photo: "/members/phd8.jpg"
+
+  - name: "PhD Student Nine"
+    role: "PhD Student"
+    year: 2024
+    email: "phd9@university.edu"
+    photo: "/members/phd9.jpg"
+
+  - name: "PhD Student Ten"
+    role: "PhD Student"
+    year: 2024
+    email: "phd10@university.edu"
+    photo: "/members/phd10.jpg"
+
+  - name: "PhD Student Eleven"
+    role: "PhD Student"
+    year: 2024
+    email: "phd11@university.edu"
+    photo: "/members/phd11.jpg"
+
+  - name: "PhD Student Twelve"
+    role: "PhD Student"
+    year: 2025
+    email: "phd12@university.edu"
+    photo: "/members/phd12.jpg"
+
+  - name: "PhD Student Thirteen"
+    role: "PhD Student"
+    year: 2025
+    email: "phd13@university.edu"
+    photo: "/members/phd13.jpg"
+
+  # ── Master's Students ───────────────────────────────────────────────────
+  - name: "Master Student One"
+    role: "Master's Student"
+    year: 2024
+    email: "ms1@university.edu"
+    photo: "/members/ms1.jpg"
+
+  - name: "Master Student Two"
+    role: "Master's Student"
+    year: 2024
+    email: "ms2@university.edu"
+    photo: "/members/ms2.jpg"
+
+  - name: "Master Student Three"
+    role: "Master's Student"
+    year: 2025
+    email: "ms3@university.edu"
+    photo: "/members/ms3.jpg"
+
+  - name: "Master Student Four"
+    role: "Master's Student"
+    year: 2025
+    email: "ms4@university.edu"
+    photo: "/members/ms4.jpg"
+
+  # ── Research Assistants ─────────────────────────────────────────────────
+  - name: "Research Assistant One"
+    role: "Research Assistant"
+    email: "ra1@university.edu"
+    photo: "/members/ra1.jpg"
+
+  - name: "Research Assistant Two"
+    role: "Research Assistant"
+    email: "ra2@university.edu"
+    photo: "/members/ra2.jpg"
+
+  # ── Visiting Researchers ────────────────────────────────────────────────
+  - name: "Visiting Researcher One"
+    role: "Visiting Researcher"
+    email: "visit1@university.edu"
+    photo: "/members/visit1.jpg"
+
+  - name: "Visiting Researcher Two"
+    role: "Visiting Researcher"
+    email: "visit2@university.edu"
+    photo: "/members/visit2.jpg"
+
+  - name: "Visiting Researcher Three"
+    role: "Visiting Researcher"
+    email: "visit3@university.edu"
+    photo: "/members/visit3.jpg"
