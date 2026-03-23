@@ -31,7 +31,7 @@
     width: 130px;
     height: 130px;
     border-radius: 50%;
-    object-fit: cover;
+    object-fit: contain;
     display: block;
     margin: 0 auto 0.85rem;
     background-color: var(--border);
@@ -76,4 +76,38 @@
 .member-email:hover {
     text-decoration: underline;
     color: var(--primary);
+}
+
+.members-section-title {
+    margin: 2.5rem 0 0;
+    font-size: 1.2rem;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 0.4rem;
+}
+
+.alumni-list {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0 2rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.5rem 2rem;
+}
+
+@media (max-width: 600px) {
+    .alumni-list {
+        grid-template-columns: 1fr;
+    }
+}
+
+.alumni-item {
+    font-size: 0.92rem;
+}
+
+.alumni-name {
+    font-weight: 600;
+}
+
+.alumni-dest {
+    color: var(--secondary);
 }
