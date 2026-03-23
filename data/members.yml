@@ -16,6 +16,18 @@
   photo: "/members/秦姣龙.jpeg"
   category: "Faculty"
 
+- name: "张震霆"
+  photo: "/members/张震霆.jpg"
+  category: "Faculty"
+
+- name: "王从云"
+  photo: "/members/王从云.png"
+  category: "Faculty"
+
+- name: "陈锦阳"
+  photo: "/members/陈锦阳.jpg"
+  category: "Faculty"
+
 # ── Students ─────────────────────────────────────────────────────────────────
 # Sorted by importance (1=PhD early cohort → 6=Undergrad)
 
