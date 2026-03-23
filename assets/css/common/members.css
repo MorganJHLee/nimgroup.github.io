@@ -31,8 +31,7 @@
     width: 130px;
     height: 130px;
     border-radius: 50%;
-    object-fit: cover;
-    object-position: top;
+    object-fit: contain;
     display: block;
     margin: 0 auto 0.85rem;
     background-color: var(--border);
