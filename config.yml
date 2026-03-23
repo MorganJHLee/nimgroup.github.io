@@ -24,6 +24,9 @@ menu:
         - name: Member
           url: members/
           weight: 4
+        - name: Teaching
+          url: teaching/
+          weight: 5
         - name: Source
           url: source/
           weight: 6
@@ -50,7 +53,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["publications","research","source","news"]
+    MainSections: ["publications","research","source","news","teaching"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -74,6 +77,8 @@ params:
               url: publications/
             - name: Member
               url: members/
+            - name: Teaching
+              url: teaching/
             - name: News
               url: news/
             - name: Contact
