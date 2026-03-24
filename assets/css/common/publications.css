@@ -1,0 +1,128 @@
+/* ── Publications page ─────────────────────────────────────────── */
+
+.pub-page-desc {
+    color: var(--secondary);
+    margin-top: 4px;
+    font-size: var(--entrysize);
+}
+
+/* Year group */
+.pub-year-group {
+    margin-bottom: 2.5rem;
+}
+
+.pub-year-heading {
+    font-size: 1.15rem;
+    font-weight: var(--semibold);
+    color: var(--primary);
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 0.35rem;
+    margin-bottom: 1rem;
+}
+
+/* Individual entry */
+.pub-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.pub-entry {
+    display: flex;
+    gap: 0.85rem;
+    align-items: flex-start;
+    padding: 0.85rem 1rem;
+    border-radius: var(--radius);
+    background: var(--entry);
+    border: 1px solid var(--border);
+    transition: border-color 0.15s;
+}
+
+.pub-entry:hover {
+    border-color: var(--secondary);
+}
+
+/* Type badge */
+.pub-type-badge {
+    flex-shrink: 0;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    padding: 3px 7px;
+    border-radius: 4px;
+    margin-top: 3px;
+    white-space: nowrap;
+}
+
+.pub-type-journal {
+    background: color-mix(in srgb, var(--darkcolor) 18%, transparent);
+    color: var(--darkcolor);
+}
+
+.pub-type-conference {
+    background: color-mix(in srgb, var(--secondary) 15%, transparent);
+    color: var(--secondary);
+}
+
+/* Text content */
+.pub-body {
+    flex: 1;
+    min-width: 0;
+}
+
+.pub-title {
+    font-size: var(--textsize);
+    font-weight: var(--semibold);
+    color: var(--primary);
+    margin: 0 0 0.2rem;
+    line-height: 1.35;
+}
+
+.pub-authors {
+    font-size: var(--entrysize);
+    color: var(--secondary);
+    margin: 0 0 0.15rem;
+}
+
+.pub-venue {
+    font-size: var(--entrysize);
+    color: var(--secondary);
+    margin: 0 0 0.4rem;
+}
+
+/* Links */
+.pub-links {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.pub-link {
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    padding: 2px 8px;
+    border-radius: 4px;
+    text-decoration: none;
+    border: 1px solid var(--border);
+    color: var(--secondary);
+    transition: border-color 0.15s, color 0.15s;
+}
+
+.pub-link:hover {
+    border-color: var(--darkcolor);
+    color: var(--darkcolor);
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    .pub-entry {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .pub-type-badge {
+        align-self: flex-start;
+    }
+}
