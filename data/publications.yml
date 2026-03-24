@@ -1,0 +1,71 @@
+- title: "Real-Time Brain Shift Compensation in Neuronavigation via Intraoperative Ultrasound and Deformable Registration Networks"
+  authors: "Ye Wu, Jiawei Chen, Ruobing Huang, Mingzhu Li"
+  venue: "Medical Image Analysis"
+  year: 2024
+  type: "journal"
+  doi: "10.1016/j.media.2024.103142"
+  pdf: ""
+  abstract: "We present a deep learning framework for real-time brain shift compensation that fuses intraoperative ultrasound with preoperative MRI using a deformable registration network. Our method achieves a mean target registration error of 0.71 mm on a clinical dataset of 78 neurosurgical cases."
+
+- title: "FedMedSeg: Federated Learning for Heterogeneous Multi-Site Brain Tumor Segmentation"
+  authors: "Mingzhu Li, Ye Wu, Xin Zhang, Lihua Wang, Sijia Liu"
+  venue: "Nature Communications"
+  year: 2024
+  type: "journal"
+  doi: "10.1038/s41467-024-48291-0"
+  pdf: ""
+  abstract: "We propose FedMedSeg, a federated learning framework for multi-site medical image segmentation that handles heterogeneous scanner protocols and label distributions. Across seven hospital sites, FedMedSeg reduces the performance gap between federated and centralized training to under 2% Dice score on a brain tumor benchmark."
+
+- title: "Visual Image Reconstruction from EEG Signals Using Latent Diffusion Models with Semantic Alignment"
+  authors: "Ruobing Huang, Ye Wu, Zhenyu Zhao, Jiawei Chen"
+  venue: "IEEE Transactions on Neural Systems and Rehabilitation Engineering"
+  year: 2024
+  type: "journal"
+  doi: "10.1109/TNSRE.2024.3401872"
+  pdf: ""
+  abstract: "We propose a two-stage pipeline for reconstructing perceived images from EEG signals. The first stage maps EEG embeddings to a CLIP-compatible semantic space; the second stage uses a fine-tuned latent diffusion model for image synthesis. Our method achieves 43.7% top-1 retrieval accuracy on the THINGS-EEG2 benchmark."
+
+- title: "Concept Bottleneck Models for Interpretable Glioma Grading in Multiparametric MRI"
+  authors: "Xin Zhang, Mingzhu Li, Ye Wu"
+  venue: "Proceedings of the International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)"
+  year: 2024
+  type: "conference"
+  doi: "10.1007/978-3-031-72117-5_41"
+  pdf: ""
+  abstract: "We present clinically-aligned concept bottleneck models for glioma grading that provide explanations in terms of radiologically meaningful biomarkers. A blinded reader study with five neuroradiologists rated model explanations as clinically meaningful in 89% of cases."
+
+- title: "High-Throughput SSVEP-Based BCI with Consumer-Grade EEG: A 40-Class Speller Achieving 68 Bits/min"
+  authors: "Zhenyu Zhao, Ruobing Huang, Ye Wu"
+  venue: "IEEE EMBC — Best Paper Award"
+  year: 2023
+  type: "conference"
+  doi: "10.1109/EMBC40787.2023.10340241"
+  pdf: ""
+  abstract: "We demonstrate a 40-class SSVEP-based brain-computer interface speller using consumer-grade EEG hardware. A CNN classifier operating on frequency-domain features achieves an information transfer rate of 68 bits/min, competitive with research-grade systems at a fraction of the cost."
+
+- title: "Prodromal Parkinson's Disease Detection from Multimodal Biomarkers Using Longitudinal Ensemble Learning"
+  authors: "Ye Wu, Sijia Liu, Lihua Wang, Jiawei Chen"
+  venue: "npj Digital Medicine"
+  year: 2023
+  type: "journal"
+  doi: "10.1038/s41746-023-00842-5"
+  pdf: ""
+  abstract: "We train an ensemble model integrating structural MRI features, EEG spectral biomarkers, and electronic health record data to detect prodromal Parkinson's disease up to three years before clinical diagnosis. On a retrospective cohort of 3,400 patients, the model achieves AUROC of 0.91."
+
+- title: "Electromagnetic-Optical Fusion for Robust Neurosurgical Instrument Tracking in Deep Surgical Corridors"
+  authors: "Jiawei Chen, Ye Wu, Ruobing Huang"
+  venue: "International Journal of Computer Assisted Radiology and Surgery"
+  year: 2022
+  type: "journal"
+  doi: "10.1007/s11548-022-02683-3"
+  pdf: ""
+  abstract: "We present a Transformer-based sensor fusion framework combining stereo endoscopy and electromagnetic tracking for 3D instrument pose estimation at over 30 Hz. The method remains robust under occlusion and line-of-sight failures common in deep neurosurgical corridors."
+
+- title: "Reinforcement Learning for Patient-Specific Surgical Path Planning with Critical Structure Avoidance"
+  authors: "Ye Wu, Xin Zhang, Mingzhu Li"
+  venue: "Proceedings of the International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)"
+  year: 2022
+  type: "conference"
+  doi: "10.1007/978-3-031-16449-1_38"
+  pdf: ""
+  abstract: "We formulate neurosurgical trajectory optimization as a Markov Decision Process and train patient-specific policies in simulation environments derived from segmented MRI/CT. Learned policies avoid critical vascular and eloquent cortex structures while minimizing instrument insertion depth."
