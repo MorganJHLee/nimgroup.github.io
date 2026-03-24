@@ -1,0 +1,59 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <p class="pub-page-desc">{{ .Description }}</p>
+  {{- end }}
+</header>
+
+{{- if .Content }}
+<div class="post-content">
+  {{ .Content }}
+</div>
+{{- end }}
+
+{{- $pubs := site.Data.publications }}
+
+{{- /* Group publications by year, descending */}}
+{{- $years := slice }}
+{{- range $pubs }}
+  {{- $years = $years | append .year }}
+{{- end }}
+{{- $years = $years | uniq | sort | reverse }}
+
+{{- range $years }}
+{{- $year := . }}
+{{- $yearPubs := where $pubs "year" $year }}
+<div class="pub-year-group">
+  <h2 class="pub-year-heading">{{ $year }}</h2>
+  <div class="pub-list">
+    {{- range $yearPubs }}
+    <div class="pub-entry">
+      <div class="pub-type-badge pub-type-{{ .type }}">
+        {{- if eq .type "journal" }}Journal{{- else }}Conference{{- end }}
+      </div>
+      <div class="pub-body">
+        <p class="pub-title">{{ .title }}</p>
+        <p class="pub-authors">{{ .authors }}</p>
+        <p class="pub-venue">
+          <em>{{ .venue }}</em>{{- if .year }}, {{ .year }}{{- end }}
+        </p>
+        {{- if or .doi .pdf }}
+        <div class="pub-links">
+          {{- if .doi }}
+          <a href="https://doi.org/{{ .doi }}" target="_blank" rel="noopener" class="pub-link pub-link-doi">DOI</a>
+          {{- end }}
+          {{- if .pdf }}
+          <a href="{{ .pdf }}" target="_blank" rel="noopener" class="pub-link pub-link-pdf">PDF</a>
+          {{- end }}
+        </div>
+        {{- end }}
+      </div>
+    </div>
+    {{- end }}
+  </div>
+</div>
+{{- end }}
+
+{{- end }}{{/* end main */}}
