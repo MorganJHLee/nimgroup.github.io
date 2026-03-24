@@ -15,16 +15,17 @@
 
 {{- $pubs := site.Data.publications }}
 
-{{- /* Group publications by year, descending */}}
+{{- /* Sort publications by year descending, then extract unique years in that order */}}
+{{- $pubsSorted := sort $pubs "year" "desc" }}
 {{- $years := slice }}
-{{- range $pubs }}
+{{- range $pubsSorted }}
   {{- $years = $years | append .year }}
 {{- end }}
-{{- $years = $years | uniq | sort | reverse }}
+{{- $years = $years | uniq }}
 
 {{- range $years }}
 {{- $year := . }}
-{{- $yearPubs := where $pubs "year" $year }}
+{{- $yearPubs := where $pubsSorted "year" $year }}
 <div class="pub-year-group">
   <h2 class="pub-year-heading">{{ $year }}</h2>
   <div class="pub-list">
