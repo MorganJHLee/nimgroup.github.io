@@ -33,5 +33,5 @@ Room [XXX]
 
 #### Office location
 
-<iframe src="https://www.google.com/maps/embed?pb=YOUR_EMBED_URL"
-width="700" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://map.baidu.com/?latlng=32.027622,118.851778&title=南京理工大学&content=南京市玄武区孝陵卫200号&output=embed&src=jsapi"
+width="100%" height="400" scrolling="no" frameborder="0" allowfullscreen></iframe>
