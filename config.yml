@@ -75,6 +75,8 @@ params:
               url: publications/
             - name: Member
               url: members/
+            - name: Source
+              url: source/
             - name: News
               url: news/
             - name: Contact
