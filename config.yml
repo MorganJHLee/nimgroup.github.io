@@ -1,4 +1,4 @@
-baseURL: "https://nimgroup.github.io/" 
+baseURL: 'https://nimgroup.github.io/'
 title: NIMGroup
 theme: PaperMod
 
@@ -9,122 +9,124 @@ pagination:
   pagerSize: 20
 
 taxonomies:
-    tag: tags
+  tag: tags
 
 menu:
-    main:
-        - name: About
-          url: about/
-          weight: 1
-        - name: Research
-          url: research/
-          weight: 2
-        - name: Publication
-          url: publications/
-          weight: 3
-        - name: Member
-          url: members/
-          weight: 4
-        - name: Source
-          url: source/
-          weight: 6
-        - name: News
-          url: news/
-          weight: 7
-        - name: Contact
-          url: contact/
-          weight: 8
+  main:
+    - name: About
+      url: about/
+      weight: 1
+    - name: Research
+      url: research/
+      weight: 2
+    - name: Publication
+      url: publications/
+      weight: 3
+    - name: Member
+      url: members/
+      weight: 4
+    - name: Source
+      url: source/
+      weight: 6
+    - name: News
+      url: news/
+      weight: 7
+    - name: Contact
+      url: contact/
+      weight: 8
 
 params:
-    description: "NIMGroup researches AI and machine learning for intelligent medicine, with a focus on neural navigation and image-enabled brain-computer interfaces."
-    author: NIMGroup
-    # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: false
-    disableThemeToggle: true
-    ShowShareButtons: false
-    ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowAllPagesInArchive: false
-    MainSections: ["publications","research","source","news"]
-    ShowToc: false
-    disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
-    profileMode:
-          enabled: true
-          title: NIMGroup
-          subtitle: "We are a research group working at the intersection of artificial intelligence and intelligent medicine. Our work spans machine learning, neural navigation, and image-enabled brain-computer interfaces, with the goal of advancing AI-driven solutions for smart healthcare."
-          imageUrl: "logo.png"
-          imageWidth: 160
-          imageHeight: 115
-          buttons:
-            - name: About
-              url: about/
-            - name: Research
-              url: research/
-            - name: Publication
-              url: publications/
-            - name: Member
-              url: members/
-            - name: Source
-              url: source/
-            - name: News
-              url: news/
-            - name: Contact
-              url: contact/
+  description: 'NIMGroup researches AI and machine learning for intelligent medicine, with a focus on neural navigation and image-enabled brain-computer interfaces.'
+  author: NIMGroup
+  # googleAnalyticsID: "G-XXXXX"
+  DateFormat: 'January 2006'
+  defaultTheme: light
+  hideFooter: false
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: false
+  MainSections: ['publications', 'research', 'source', 'news']
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: true
+  profileMode:
+    enabled: true
+    title: NIMGroup
+    subtitle: 'Welcome to the Neuroimaging in Intelligent Medicine Group (NIMG) at Nanjing University of Science and Technology (NJUST). We focus on innovative computational neuroimaging and AI solutions for brain science, centered on three key areas: circuit-based precision neuronavigation, non-invasive AI-powered virtual biopsy imaging, and neuroimage-driven brain-computer interfaces. Our research drives advancements in healthcare AI and neuroscience, with applications in brain development, neural evolution, and the diagnosis of brain disorders. We aim to provide practical, clinically relevant solutions to scientific challenges, combining engineering precision with impact on brain health.'
+    imageUrl: 'logo.png'
+    imageWidth: 160
+    imageHeight: 115
+    buttons:
+      - name: About
+        url: about/
+      - name: Research
+        url: research/
+      - name: Publication
+        url: publications/
+      - name: Member
+        url: members/
+      - name: Source
+        url: source/
+      - name: News
+        url: news/
+      - name: Contact
+        url: contact/
 
-    socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+  socialIcons:
+    #- name: CV
+    #  url: cv.pdf
+    - name: Email
+      url: mailto:dr.yewu@outlook.com
+    #- name: Zoom
+    #  url: https://www.zoom.us/my/igelfeld
+    - name: Location
+      url: location/
+    - name: Office Hours
+      url: officehours/
+    - name: Google Scholar
+      url: https://scholar.google.com/citations?user=soMcNA8AAAAJ
+    - name: GitHub
+      url: https://github.com/nimgroup
+    #- name: Substack
+    #  url: https://pmichaillat.substack.com
+    #- name: YouTube
+    #  url: https://www.youtube.com/@pmichaillat
+    - name: Twitter
+      url: https://x.com/wuye4567
+    #- name: Bluesky
+    #  url: https://bsky.app/profile/pmichaillat.bsky.social
+    - name: ORCID
+      url: https://orcid.org/0000-0002-8643-4023
 
-    assets:
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: false
-        hiddenInSingle: true
-    label:
-      text: "NIMGroup"
-      icon: logo.png
-      iconHeight: 40
-      iconWidth: 56
+  assets:
+    disableScrollBarStyle: true
+  cover:
+    hiddenInList: false
+    hiddenInSingle: true
+  label:
+    text: 'NIMGroup'
+    icon: logo.png
+    iconHeight: 40
+    iconWidth: 56
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: autumn 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: autumn
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
