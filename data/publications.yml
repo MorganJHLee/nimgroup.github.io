@@ -5,6 +5,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Global consistency spatial model for fiber orientation distribution estimation"
   authors: "Ye Wu, Yuanjing Feng, Fei Li, Carl Fredrik Westin"
@@ -13,6 +14,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Sparse deconvolution of higher order tensor for fiber orientation distribution estimation"
   authors: "Yuanjing Feng, Ye Wu, Yogesh Rathi, Carl-Fredrik Westin"
@@ -21,6 +23,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "A novel Richardson-Lucy model with dictionary basis and spatial regularization for isolating isotropic signals"
   authors: "Tiantian Xu, Yuanjing Feng, Ye Wu, Qingrun Zeng, Jun Zhang, Jianzhong He, Qichuan Zhuge"
@@ -29,6 +32,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Swarm tracking approach for global probabilistic tractography with spherical deconvolution"
   authors: "Chengfeng Gao, Yuanjing Feng, Ye Wu, Jun Zhang, Tiantian Xu, Zhejin Wang"
@@ -37,6 +41,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "A self-adaptive local feature extraction based magnetic resonance imaging"
   authors: "Jun Zhang, Tiantian Xu, Yuanjing Feng, Ye Wu, Yongqiang Li, Jianzhong He, Siqi Zhou"
@@ -45,6 +50,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Tractography-based connectomes are dominated by false-positive connections"
   authors: "Klaus H Maier-Hein, Peter Neher, Jean-Christophe Houde, C\^o"
@@ -53,6 +59,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "The challenge of mapping the human connectome based on diffusion tractography"
   authors: "Klaus H Maier-Hein, Peter F Neher, Jean-Christophe Houde, C\^o"
@@ -61,6 +68,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Tractography-based connectomes are dominated by false-positive connections. bioRxiv"
   authors: "Klaus Maier-Hein, Peter Neher, Jean-Christophe Houde, Marc-Alexandre Cote, Eleftherios Garyfallidis, Jidan Zhong, Maxime Chamberland, Fang-Cheng Yeh, Ying Chia Lin, Qing Ji, others"
@@ -69,6 +77,7 @@
   type: "misc"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Asymmetric Orientation Distributions Mitigate Gyral Bias in Cortical Tractography"
   authors: "Ye Wu, Yuanjing Feng, Dinggang Shen, Pew-Thian Yap"
@@ -77,6 +86,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Real-time and authentic blood simulation for surgical training"
   authors: "Changsheng Xiao, Yuanjing Feng, Yongqiang Li, Qingrun Zeng, Jun Zhang, Ye Wu"
@@ -85,6 +95,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "A data-driven groupwise fiber clustering atlas for consistent white matter parcellation and anatomical tract identification of subjects across the lifespan"
   authors: "F Zhang, Y Wu, I Norton, Y Rathi, N Makris, LJ O’Donnell"
@@ -93,6 +104,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Investigation into local white matter abnormality in emotional processing and sensorimotor areas using an automatically annotated fiber clustering in major depressive disorder"
   authors: "Ye Wu, Fan Zhang, Nikos Makris, Yuping Ning, Isaiah Norton, Shenglin She, Hongjun Peng, Yogesh Rathi, Yuanjing Feng, Huawang Wu, others"
@@ -101,6 +113,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "An anatomically curated fiber clustering white matter atlas for consistent white matter tract parcellation across the lifespan"
   authors: "Fan Zhang, Ye Wu, Isaiah Norton, Laura Rigolo, Yogesh Rathi, Nikos Makris, Lauren J O'Donnell"
@@ -109,6 +122,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Distributed performance of white matter properties in chess players: a DWI study using automated fiber quantification"
   authors: "Siqi Zhou, Liling Jin, Jianzhong He, Qingrun Zeng, Ye Wu, Zhewen Cao, Yuanjing Feng"
@@ -117,6 +131,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "A ReliefF-SVM-based method for marking dopamine-based disease characteristics: A study on SWEDD and Parkinson’s disease"
   authors: "Liling Jin, Qingrun Zeng, Jianzhong He, Yuanjing Feng, Siqi Zhou, Ye Wu"
@@ -125,6 +140,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "A multi-tissue global estimation framework for asymmetric fiber orientation distributions"
   authors: "Ye Wu, Yuanjing Feng, Dinggang Shen, Pew-Thian Yap"
@@ -133,6 +149,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Penalized geodesic tractography for mitigating gyral bias"
   authors: "Ye Wu, Yuanjing Feng, Dinggang Shen, Pew-Thian Yap"
@@ -141,6 +158,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "A Data-driven Voxel-wise White Matter Fiber Clustering Model Based on Priori Anatomical Data"
   authors: "Zhewen Cao, Er Jin, Siqi Zhou, Ye Wu, Yongqiang Li, Yuanjing Feng"
@@ -149,6 +167,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Tractography reproducibility challenge with empirical data (TraCED): the 2017 ISMRM diffusion study group challenge"
   authors: "Vishwesh Nath, Kurt G Schilling, Prasanna Parvathaneni, Yuankai Huo, Justin A Blaber, Allison E Hainline, Muhamed Barakovic, David Romascano, Jonathan Rafael-Patino, Matteo Frigo, others"
@@ -157,6 +176,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Multi-site harmonization of diffusion MRI data via method of moments"
   authors: "Khoi Minh Huynh, Geng Chen, Ye Wu, Dinggang Shen, Pew-Thian Yap"
@@ -165,6 +185,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Biases of Microstructure Models in Baby Diffusion MRI"
   authors: "Khoi Minh Huynh, Ye Wu, Kim-Han Thung, Geng Chen, Weili Lin, Dinggang Shen, Pew-Thian Yap"
@@ -173,6 +194,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Improving Tractography in Baby Diffusion MRI via Asymmetric Spectrum Imaging"
   authors: "Ye Wu, Weili Lin, Dinggang Shen, Pew-Thian Yap"
@@ -181,6 +203,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "The Effects of Fiber Response Functions on Orientation Estimation in Baby Diffusion MRI"
   authors: "Ye Wu, Weili Lin, Dinggang Shen, Pew-Thian Yap"
@@ -189,6 +212,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Prediction of 7-year progression from subjective cognitive decline to MCI"
   authors: "Ling Yue, Dan Hu, Han Zhang, Junhao Wen, Ye Wu, Tao Wang, Dinggang Shen, Shifu Xiao"
@@ -197,6 +221,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Dense Mapping of Microstructural Development in the Human Brain During the First Two Years of Life"
   authors: "Khoi Minh Huynh, Ye Wu, Kim-Han Thung, Geng Chen, Weili Lin, Dinggang Shen, Pew-Thian Yap"
@@ -205,6 +230,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Test--retest reproducibility of white matter parcellation using diffusion MRI tractography fiber clustering"
   authors: "Fan Zhang, Ye Wu, Isaiah Norton, Yogesh Rathi, Alexandra J Golby, Lauren J O'Donnell"
@@ -213,6 +239,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Mitigating gyral bias in cortical tractography via asymmetric fiber orientation distributions"
   authors: "Ye Wu, Yoonmi Hong, Yuanjing Feng, Dinggang Shen, Pew-Thian Yap"
@@ -221,6 +248,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "White matter parcellation test-retest reproducibility of diffusion MRI tractography fiber clustering"
   authors: "Fan Zhang, Ye Wu, Isaiah Norton, Alexandra J. Rathi, Yogesh, Golby, Lauren J. O'Donnell"
@@ -229,6 +257,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Tissue segmentation using sparse non-negative matrix factorization of spherical mean diffusion MRI data"
   authors: "Peng Sun, Ye Wu, Geng Chen, Jun Wu, Dinggang Shen, Pew-Thian Yap"
@@ -237,6 +266,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Longitudinal Harmonization for Improving Tractography in Baby Diffusion MRI"
   authors: "Khoi Minh Huynh, Jaeil Kim, Geng Chen, Ye Wu, Dinggang Shen, Pew-Thian Yap"
@@ -245,6 +275,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Asymmetry spectrum imaging for baby diffusion tractography"
   authors: "Ye Wu, Weili Lin, Dinggang Shen, Pew-Thian Yap, UNC/UMN Baby Connectome Project Consortium"
@@ -253,6 +284,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "The challenge of mapping the human connectome based on diffusion tractography. Nat Commun 8 (1): 1349"
   authors: "KH Maier-Hein, PF Neher, JC Houde, MA Cote, E Garyfallidis, J Zhong, M Chamberland, FC Yeh, YC Lin, Q Ji, others"
@@ -261,6 +293,7 @@
   type: "misc"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "DeepBundle: fiber bundle parcellation with graph convolution neural networks"
   authors: "Feihong Liu, Jun Feng, Geng Chen, Ye Wu, Yoonmi Hong, Pew-Thian Yap, Dinggang Shen"
@@ -269,6 +302,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "An improved mass spring model based on internal point set domain constraint"
   authors: "Jia-qing Hu, Yuan-jing Feng, Si-qi Zhou, Liang-peng Huang, Qing-run Zeng, Ye Wu, Yong-qiang Li"
@@ -277,6 +311,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "A novel fiber orientation distribution reconstruction method based on dictionary basis function framework"
   authors: "Y Wu, YJ Feng, F Li, CF Gao"
@@ -285,6 +320,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "ESTIMATION OF FIBER ORIENTATION DISTRIBUTION WITH NON-NEGATIVE CONSTRAINTED HIGHER ORDER TENSOR DECONVOLUTION"
   authors: "XU Youyou, FENG Yuanjing, NIU Yanpen, WU Ye"
@@ -293,6 +329,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Probing tissue microarchitecture of the baby brain via spherical mean spectrum imaging"
   authors: "Khoi Minh Huynh, Tiantian Xu, Ye Wu, Xifeng Wang, Geng Chen, Haiyong Wu, Kim-Han Thung, Weili Lin, Dinggang Shen, Pew-Thian Yap"
@@ -301,6 +338,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Automated Parcellation of the Cortex Using Structural Connectome Harmonics"
   authors: "Hoyt Patrick Taylor IV, Zhengwang Wu, Ye Wu, Dinggang Shen, Han Zhang, Pew-Thian Yap"
@@ -309,6 +347,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Probing brain micro-architecture by orientation distribution invariant identification of diffusion compartments"
   authors: "Khoi Minh Huynh, Tiantian Xu, Ye Wu, Geng Chen, Kim-Han Thung, Haiyong Wu, Weili Lin, Dinggang Shen, Pew-Thian Yap, UNC/UMN Baby Connectome Project Consortium"
@@ -317,6 +356,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Characterizing non-gaussian diffusion in heterogeneously oriented tissue microenvironments"
   authors: "Khoi Minh Huynh, Tiantian Xu, Ye Wu, Kim-Han Thung, Geng Chen, Weili Lin, Dinggang Shen, Pew-Thian Yap"
@@ -325,6 +365,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Dynamic routing capsule networks for mild cognitive impairment diagnosis"
   authors: "Zhicheng Jiao, Pu Huang, Tae-Eui Kam, Li-Ming Hsu, Ye Wu, Han Zhang, Dinggang Shen"
@@ -333,6 +374,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Early development of infant brain complex network"
   authors: "Weixiong Jiang, Han Zhang, Li-Ming Hsu, Dan Hu, Guoshi Li, Ye Wu, Dinggang Shen"
@@ -341,6 +383,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Identification of abnormal circuit dynamics in major depressive disorder via multiscale neural modeling of resting-state fMRI"
   authors: "Guoshi Li, Yujie Liu, Yanting Zheng, Ye Wu, Pew-Thian Yap, Shijun Qiu, Han Zhang, Dinggang Shen"
@@ -349,6 +392,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Author Correction: The challenge of mapping the human connectome based on diffusion tractography"
   authors: "Klaus H Maier-Hein, Peter F Neher, Jean-Christophe Houde, C\^o"
@@ -357,6 +401,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "P4-287: PREDICTION OF 7-YEAR PROGRESSION FROM SUBJECTIVE COGNITIVE DECLINE TO MCI: EVIDENCE FROM THE CHINA LONGITUDINAL AGEING STUDY (CLAS)"
   authors: "Ling Yue, Dan Hu, Han Zhang, Junhao Wen, Ye Wu, Tao Wang, Dinggang Shen, Shifu Xiao"
@@ -365,6 +410,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "The challenge of mapping the human connectome based on diffusion tractography. Nat Commun 8: 1349"
   authors: "KH Maier-Hein, PF Neher, JC Houde, C\^o"
@@ -373,6 +419,7 @@
   type: "misc"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Multifold acceleration of diffusion MRI via slice-interleaved diffusion encoding (SIDE)"
   authors: "Yoonmi Hong, Wei-Tang Chang, Geng Chen, Ye Wu, Weili Lin, Dinggang Shen, Pew-Thian Yap"
@@ -381,6 +428,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Multiscale neural modeling of resting-state fMRI reveals executive-limbic malfunction as a core mechanism in major depressive disorder"
   authors: "Guoshi Li, Yujie Liu, Yanting Zheng, Ye Wu, Danian Li, Xinyu Liang, Yaoping Chen, Ying Cui, Pew-Thian Yap, Shijun Qiu, others"
@@ -389,6 +437,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "The concurrent disturbance of dynamic functional and structural brain connectome in major depressive disorder: the prefronto-insular pathway"
   authors: "Huifeng Zhang, Lena Palaniyappan, Yan Wu, Enchao Cong, Chuangxin Wu, Lei Ding, Feng Jin, Meihui Qiu, Yueqi Huang, Ye Wu, others"
@@ -397,6 +446,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Prediction of 7-year's conversion from subjective cognitive decline to mild cognitive impairment"
   authors: "Ling Yue, Dan Hu, Han Zhang, Junhao Wen, Ye Wu, Wei Li, Lin Sun, Xia Li, Jinghua Wang, Guanjun Li, others"
@@ -405,6 +455,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "The IronTract challenge: Validation and optimal tractography methods for the HCP diffusion acquisition scheme"
   authors: "Jonathan Rafael-Patino Barakovic, Thomas Yu, Ga\ Rensonnet"
@@ -413,6 +464,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Characterizing intra-soma diffusion with spherical mean spectrum imaging"
   authors: "Khoi Minh Huynh, Ye Wu, Kim-Han Thung, Sahar Ahmad, Hoyt Patrick Taylor IV, Dinggang Shen, Pew-Thian Yap"
@@ -421,6 +473,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Tract dictionary learning for fast and robust recognition of fiber bundles"
   authors: "Ye Wu, Yoonmi Hong, Sahar Ahmad, Weili Lin, Dinggang Shen, Pew-Thian Yap, UNC/UMN Baby Connectome Project Consortium"
@@ -429,6 +482,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Globally optimized super-resolution of diffusion mri data via fiber continuity"
   authors: "Ye Wu, Yoonmi Hong, Sahar Ahmad, Wei-Tang Chang, Weili Lin, Dinggang Shen, Pew-Thian Yap"
@@ -437,6 +491,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Fast correction of eddy-current and susceptibility-induced distortions using rotation-invariant contrasts"
   authors: "Sahar Ahmad, Ye Wu, Khoi Minh Huynh, Kim-Han Thung, Weili Lin, Dinggang Shen, Pew-Thian Yap, UNC/UMN Baby Connectome Project Consortium"
@@ -445,6 +500,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "White Matter Tract Atlases of the Baby Brain"
   authors: "Ye Wu, Yoonmi Hong, Sahar Ahmad, Weili Lin, Pew-Thian Yap"
@@ -453,6 +509,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Multivariate Quantification of Brain Development During the First Two Years of Life"
   authors: "Khoi Minh Huynh, Ye Wu, Kim-Han Thung, Sahar Ahmad, Hoyt Patrick Taylor IV, Weili Lin"
@@ -461,6 +518,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Total Variation Based Spatial Brain Fiber Orientation Estimation"
   authors: "LI Fei, FENG Yuanjing, WU Ye"
@@ -469,6 +527,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "White matter tract atlases of a century of human life"
   authors: "Ye Wu, Sahar Ahmad, Weili Lin, Pew-Thian Yap"
@@ -477,6 +536,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Active cortex tractography"
   authors: "Ye Wu, Yoonmi Hong, Sahar Ahmad, Pew-Thian Yap"
@@ -485,6 +545,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Highly reproducible whole brain parcellation in individuals via voxel annotation with fiber clusters"
   authors: "Ye Wu, Sahar Ahmad, Pew-Thian Yap"
@@ -493,6 +554,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Surface-Guided Image Fusion for Preserving Cortical Details in Human Brain Templates"
   authors: "Sahar Ahmad, Ye Wu, Pew-Thian Yap"
@@ -501,6 +563,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Deep simulation of facial appearance changes following craniomaxillofacial bony movements in orthognathic surgical planning"
   authors: "Lei Ma, Daeseung Kim, Chunfeng Lian, Deqiang Xiao, Tianshu Kuang, Qin Liu, Yankun Lang, Hannah H Deng, Jaime Gateno, Ye Wu, others"
@@ -509,6 +572,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "An Automated Processing Pipeline for Diffusion MRI in the Baby Connectome Project"
   authors: "Ye Wu, Sahar Ahmad, Khoi Minh-Huynh, Siyuan Liu, Kim-Han Thung, Weili Lin, Pew-Thian Yap"
@@ -517,6 +581,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Quantifying Cell Size and Membrane Permeability with Microstructure Fingerprinting"
   authors: "Khoi Minh-Huynh, Ye Wu, Pew-Thian Yap"
@@ -525,6 +590,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Subsampling Diffusion Gradients via Poisson Sphere Elimination"
   authors: "Ye Wu, Sahar Ahmad, Lei Ma, Erkun Yang, Pew-Thian Yap"
@@ -533,6 +599,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "New insights from the IronTract challenge: Simple post-processing enhances the accuracy of diffusion tractography"
   authors: "Chiara Maffei, Gabriel Girard, Kurt G Schilling, Dogu Baran Aydogan, Nagesh Adluru, Andrey Zhylka, Ye Wu, Matteo Mancini, Andac Hamamci, Alessia Sarica, others"
@@ -541,6 +608,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "The IronTract challenge: validation and optimal tractography methods for the HCP diffusion acquisition scheme"
   authors: "Chiara Maffei, Gabriel Girard, Kurt G Schilling, Nagesh Adluru, Dogu Baran Aydogan, Andac Hamamci, Fang-Cheng Yeh, Matteo Mancini, Ye Wu, Alessia Sarica, others"
@@ -549,6 +617,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Image Reconstruction from Accelerated Slice-Interleaved Diffusion Encoding Data"
   authors: "Tiantian Xu, Ye Wu, Yoonmi Hong, Khoi Minh Huynh, Weili Lin, Wei-Tang Chang, Pew-Thian Yap"
@@ -557,6 +626,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Vox2Surf: Implicit surface reconstruction from volumetric data"
   authors: "Yoonmi Hong, Sahar Ahmad, Ye Wu, Siyuan Liu, Pew-Thian Yap"
@@ -565,6 +635,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Longitudinal Parcellation of the Infant Cortex Using Multi-modal Connectome Harmonics"
   authors: "Hoyt Patrick Taylor, Sahar Ahmad, Ye Wu, Khoi Minh Huynh, Zhen Zhou, Zhengwang Wu, Weili Lin, Li Wang, Gang Li, Han Zhang, others"
@@ -573,6 +644,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Human Brain Surface-Volume Atlases of Newborns to Centenarians"
   authors: "Sahar Ahmad, Ye Wu, Zhengwang Wu, Weili Lin, Li Wang, Gang Li, Pew-Thian Yap"
@@ -581,6 +653,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Elevated neurofilament light chain in plasma is associated with reduced right hippocampal and amygdala volume in Alzheimer's patients"
   authors: "Wei Li, Ling Yue, Ye Wu, Lin Sun, Shifu Xiao"
@@ -589,6 +662,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Computational Diffusion MRI"
   authors: "Elisenda Bonet-Carne, F Grussu, Lipeng Ning, F Sepehrband, CMW Tax"
@@ -597,6 +671,7 @@
   type: "misc"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Disrupted dynamic functional and structural brain connectome in major depression: The prefronto-insular pathway"
   authors: "Huifeng Zhang, Lena Palaniyappan, Chuangxin Wu, Lei Ding, Feng Jin, Meihui Qiu, Yueqi Huang, Ye Wu, Jinhong Wang, Shihui Ying, others"
@@ -605,6 +680,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Tackling Degeneracy in Linear Tensor Encoding Diffusion MRI"
   authors: "Khoi Minh Huynh, Ye Wu, Hoyt Patrick Taylor IV, Weili Lin, Pew-Thian Yap"
@@ -613,6 +689,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Multifaceted atlases of the human brain in its infancy"
   authors: "Sahar Ahmad, Ye Wu, Zhengwang Wu, Kim-Han Thung, Siyuan Liu, Weili Lin, Gang Li, Li Wang, Pew-Thian Yap"
@@ -621,6 +698,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Quantifying Intra-Soma Diffusion Properties via Spherical Mean Spectrum Imaging"
   authors: "Khoi Minh Huynh, Ye Wu, Kim-Han Thung, Sahar Ahmad, Hoyt Patrick Taylor IV, Weili Lin, Pew-Thian Yap"
@@ -629,6 +707,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Insights from the IronTract challenge: Optimal methods for mapping brain pathways from multi-shell diffusion MRI"
   authors: "Chiara Maffei, Gabriel Girard, Kurt G Schilling, Dogu Baran Aydogan, Nagesh Adluru, Andrey Zhylka, Ye Wu, Matteo Mancini, Andac Hamamci, Alessia Sarica, others"
@@ -637,6 +716,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "50-Fold Acceleration of Diffusion MRI via Slice-Interleaved Diffusion Encoding (SIDE)"
   authors: "Yoonmi Hong, Wei-Tang Chang, Geng Chen, Ye Wu, Weili Lin, Dinggang Shen, Pew-Thian Yap"
@@ -645,6 +725,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Mitigating Gyral Bias via Active Cortex Tractography"
   authors: "Ye Wu, Yoonmi Hong, Pew-Thian Yap"
@@ -653,6 +734,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Correction to: Highly Reproducible Whole Brain Parcellation in Individuals via Voxel Annotation with Fiber Clusters"
   authors: "Ye Wu, Sahar Ahmad, Pew-Thian Yap"
@@ -661,6 +743,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "New insights from the IronTract challenge: Simple post-processing enhances the accuracy of diffusion tractography"
   authors: "Mert E Yildiz, Ali Gholipour, Andrea Quattrone, Aldo Quattrone, Pew-Thian Yap, Alberto de Luca, Josien Pluim, Alexander Lemans, Vivek Prabhakaran, Barbara B Bendlin, others"
@@ -669,6 +752,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Rapid diffusion magnetic resonance imaging using slice-interleaved encoding"
   authors: "Tiantian Xu, Ye Wu, Yoonmi Hong, Sahar Ahmad, Khoi Minh Huynh, Zhixing Wang, Weili Lin, Wei-Tang Chang, Pew-Thian Yap"
@@ -677,6 +761,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Aberrant dynamic functional network connectivity in type 2 diabetes mellitus individuals"
   authors: "Wenjiao Lyu, Ye Wu, Haoming Huang, Yuna Chen, Xin Tan, Yi Liang, Xiaomeng Ma, Yue Feng, Jinjian Wu, Shangyu Kang, others"
@@ -685,6 +770,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Harmonization of Multi-site Cortical Data Across the Human Lifespan"
   authors: "Sahar Ahmad, Fang Nan, Ye Wu, Zhengwang Wu, Weili Lin, Li Wang, Gang Li, Di Wu, Pew-Thian Yap"
@@ -693,6 +779,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Excitation-inhibition imbalance in Alzheimer’s disease using multiscale neural model inversion of resting-state fMRI"
   authors: "Guoshi Li, Li-Ming Hsu, Ye Wu, Andrea C Bozoki, Yen-Yu Ian Shih, Pew-Thian Yap"
@@ -701,6 +788,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "The art, science, and secrets of scanning young children"
   authors: "Marisa N Spann, Jessica L Wisnowski, Banu Ahtam, Wei Gao, Hao Huang, Mary Beth Nebel, Elizabeth S Norton, Minhui Ouyang, Vidya Rajagopalan, Tracy Riggins, others"
@@ -709,6 +797,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Brain tissue segmentation across the human lifespan via supervised contrastive learning"
   authors: "Xiaoyang Chen, Jinjian Wu, Wenjiao Lyu, Yicheng Zou, Kim-Han Thung, Siyuan Liu, Ye Wu, Sahar Ahmad, Pew-Thian Yap"
@@ -717,6 +806,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "COMEDI: A Toolkit for Lifespan Computational Diffusion MRI"
   authors: "Ye Wu, Sahar Ahmad, Khoi Minh Huynh, Tiantian Xu, Pew-Thian Yap"
@@ -725,6 +815,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Biomedical image analysis competitions: The state of current participation practice"
   authors: "Matthias Eisenmann, Annika Reinke, Vivienn Weru, Minu Dietlinde Tizabi, Fabian Isensee, Tim J Adler, Patrick Godau, Veronika Cheplygina, Michal Kozubek, Sharib Ali, others"
@@ -733,6 +824,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Can sam segment polyps?"
   authors: "Tao Zhou, Yizhe Zhang, Yi Zhou, Ye Wu, Chen Gong"
@@ -741,6 +833,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Tractography passes the test: Results from the diffusion-simulated connectivity (disco) challenge"
   authors: "Gabriel Girard, Rafael-Pati\~n"
@@ -749,6 +842,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "White matter microstructural disruption in minimal hepatic encephalopathy: a neurite orientation dispersion and density imaging (NODDI) study"
   authors: "Qiu-Yi Dong, Jia-Hui Lin, Ye Wu, Yun-Bin Cao, Min-Xiong Zhou, Hua-Jun Chen"
@@ -757,6 +851,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Altered isotropic volume fraction in gray matter after sleep deprivation and its association with visuospatial memory: A neurite orientation dispersion and density imaging study"
   authors: "Jia-Hui Lin, Xu-Hui Chen, Ye Wu, Yun-Bin Cao, Hua-Jun Chen, Nao-Xin Huang"
@@ -765,6 +860,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Harmonization of Cortical Thickness Measurements Throughout the Human Lifespan"
   authors: "Sahar Ahmad, Fang Nan, Ye Wu, Zhengwang Wu, Weili Lin, Li Wang, Gang Li, Di Wu, Pew-Thian Yap"
@@ -773,6 +869,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Intravoxel Architecture Atlases (IAA) Across the Human Lifespan"
   authors: "Ye Wu, Sahar Ahmad, Pew-Thian Yap"
@@ -781,6 +878,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Cross-contrast fusion and aggregation network for multi-contrast MRI super-resolution"
   authors: "Yue Ding, Tao Zhou, Ye Wu"
@@ -789,6 +887,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Alterations of peripheral cytokines, BDNF, and surface-based morphometry indices in T2DM patients without cognitive impairment"
   authors: "Wenjiao Lyu, Yuna Chen, Kui Zhao, Xin Tan, Ye Wu, Shijun Qiu"
@@ -797,6 +896,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "The Art, Science, and Secrets of Scanning Young Children"
   authors: "Brittany Howell, Douglas C Dean III"
@@ -805,6 +905,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Graph analysis of diffusion tensor imaging-based connectome in young men with internet gaming disorder"
   authors: "Jiaolong Qin, Shuai Wang, Huangjing Ni, Ye Wu, Limin Chen, Shuaiyi Guo, Fuquan Zhang, Zhenhe Zhou, Lin Tian"
@@ -813,6 +914,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Building Resilience to Natural Hazards in the Context of Climate Change"
   authors: "G'e Hutter"
@@ -821,6 +923,7 @@
   type: "misc"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Computational Diffusion MRI: 13th International Workshop, CDMRI 2022, Held in Conjunction with MICCAI 2022, Singapore, Singapore, September 22, 2022, Proceedings"
   authors: "Suheyla Cetin-Karayumak, Daan Christiaens, Matteo Figini, Pamela Guevara, Tomasz Pieciak, Elizabeth Powell, Francois Rheault"
@@ -829,6 +932,7 @@
   type: "misc"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Probing bundle-wise abnormalities in patients infected with human immunodeficiency virus using fixel-based analysis: new insights into neurocognitive impairments"
   authors: "Jing Zhao, Bin Jing, Jiaojiao Liu, Feng Chen, Ye Wu, Hongjun Li"
@@ -837,6 +941,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Edge-aware feature aggregation network for polyp segmentation"
   authors: "Tao Zhou, Yizhe Zhang, Geng Chen, Yi Zhou, Ye Wu, Deng-Ping Fan"
@@ -845,6 +950,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Samdsk: Combining segment anything model with domain-specific knowledge for semi-supervised learning in medical image segmentation"
   authors: "Yizhe Zhang, Tao Zhou, Shuo Wang, Ye Wu, Pengfei Gu, Danny Z Chen"
@@ -853,6 +959,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Patch-based techniques in medical imaging"
   authors: "Guorong Wu, Coup'e"
@@ -861,6 +968,7 @@
   type: "misc"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Relaxation-diffusion spectrum imaging for probing tissue microarchitecture"
   authors: "Ye Wu, Xiaoming Liu, Xinyuan Zhang, Khoi Minh Huynh, Sahar Ahmad, Pew-Thian Yap"
@@ -869,6 +977,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Microstructure fingerprinting for heterogeneously oriented tissue microenvironments"
   authors: "Khoi Minh Huynh, Ye Wu, Sahar Ahmad, Pew-Thian Yap"
@@ -877,6 +986,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Hawkeye: A PyTorch-based Library for Fine-Grained Image Recognition with Deep Learning"
   authors: "Jiabei He, Yang Shen, Xiu-Shen Wei, Ye Wu"
@@ -885,6 +995,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Alterations via inter-regional connective relationships in Alzheimer’s disease"
   authors: "Xiaomei Ren, Bowen Dong, Ying Luan, Ye Wu, Yunzhi Huang, Alzheimer's Disease Neuroimaging Initiative"
@@ -893,6 +1004,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "A survey on deep learning for polyp segmentation: Techniques, challenges and future trends"
   authors: "Jiaxin Mei, Tao Zhou, Kaiwen Huang, Yizhe Zhang, Yi Zhou, Ye Wu, Huazhu Fu"
@@ -901,6 +1013,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Distance-specific functional connectivity strength alterations in human immunodeficiency virus asymptomatic neurocognitive impairment patients: a cross-sectional study"
   authors: "Jing Zhao, Ye Wu, Feng Chen, Haiyan Zhao, Jian Chen, Bin Jing, Hongjun Li"
@@ -909,6 +1022,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "An open relaxation-diffusion MRI dataset in neurosurgical studies"
   authors: "Ye Wu, Xiaoming Liu, Yunzhi Huang, Tao Zhou, Fan Zhang"
@@ -917,6 +1031,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Neurite orientation dispersion and density imaging quantifies microstructural impairment in the thalamus and its connectivity in amyotrophic lateral sclerosis"
   authors: "Yun-Bin Cao, Ye Wu, Qiu-Yi Dong, Nao-Xin Huang, Zhang-Yu Zou, Hua-Jun Chen"
@@ -925,6 +1040,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "TestFit: A plug-and-play one-pass test time method for medical image segmentation"
   authors: "Yizhe Zhang, Tao Zhou, Yuhui Tao, Shuo Wang, Ye Wu, Benyuan Liu, Pengfei Gu, Qiang Chen, Danny Z Chen"
@@ -933,6 +1049,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "SMNet: A Spherical Mean Network for Probing Tissue Microarchitecture from Single-shell dMRI"
   authors: "Ye Wu, Yue Ding, Xiaoming Liu, Jiaolong Qin, Yizhe Zhang, Yoonmi Hong, Tao Zhou"
@@ -941,6 +1058,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Exploring the Potential Applications of Relaxation-Diffusion Spectrum Imaging in Neurosurgical Studies"
   authors: "Ye Wu, Xiaoming Liu, Peng Sun, Yizhe Zhang, Jiaolong Qin, Tao Zhou"
@@ -949,6 +1067,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Structural Connectivity Network in Human Brain Concerning Transgenderism"
   authors: "Ye Wu, Yifei He, Tao Zhou, Xiaoming Liu"
@@ -957,6 +1076,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Transduction Enhanced Inductive Inference for Imbalanced Classification in Medical Images"
   authors: "Yizhe Zhang, Tao Zhou, Ye Wu, Shuo Wang, Danny Chen"
@@ -965,6 +1085,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "A multimodal submillimeter MRI atlas of the human cerebellum"
   authors: "Wenjiao Lyu, Ye Wu, Khoi Minh Huynh, Sahar Ahmad, Pew-Thian Yap"
@@ -973,6 +1094,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Optimal shrinkage denoising breaks the noise floor in high-resolution diffusion MRI"
   authors: "Khoi Huynh, Wei-Tang Chang, Ye Wu, Pew-Thian Yap"
@@ -981,6 +1103,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "A diffusion MRI tractography atlas for concurrent white matter mapping across Eastern and Western populations"
   authors: "Yijie Li, Wei Zhang, Ye Wu, Li Yin, Ce Zhu, Yuqian Chen, Suheyla Cetin-Karayumak, Kang Ik K Cho, Leo R Zekelman, Jarrett Rushmore, others"
@@ -989,6 +1112,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Simulation-based inference of developmental EEG maturation with the spectral graph model"
   authors: "Danilo Bernardo, Xihe Xie, Parul Verma, Jonathan Kim, Virginia Liu, Adam L Numis, Ye Wu, Hannah C Glass, Pew-Thian Yap, Srikantan S Nagarajan, others"
@@ -997,6 +1121,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Cross-contrast mutual fusion network for joint MRI reconstruction and super-resolution"
   authors: "Yue Ding, Tao Zhou, Lei Xiang, Ye Wu"
@@ -1005,6 +1130,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Segment anything model-guided collaborative learning network for scribble-supervised polyp segmentation"
   authors: "Yiming Zhao, Tao Zhou, Yunqi Gu, Yi Zhou, Yizhe Zhang, Ye Wu, Huazhu Fu"
@@ -1013,6 +1139,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Voxelwise analysis of the central hearing pathway in senior dogs reveals changes associated with fractional lifespan"
   authors: "Chin-Chieh Yang, Pew-Thian Yap, Ye Wu, Natalia Zidan, Gilad Fefer, Nathan C Nelson, Margaret E Gruen, Natasha J Olby"
@@ -1021,6 +1148,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Domain-interactive contrastive learning and prototype-guided self-training for cross-domain polyp segmentation"
   authors: "Ziru Lu, Yizhe Zhang, Yi Zhou, Ye Wu, Tao Zhou"
@@ -1029,6 +1157,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Spatially robust adaptive ensemble average propagator reconstruction via spherical polar Fourier imaging"
   authors: "Xifeng Wang, Shangbang Rao, Jian Cheng, Ye Wu, Pew-Thian Yap, Joseph Ibrahim, Hongtu Zhu"
@@ -1037,6 +1166,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "A Multimodal Atlas of the Human Cerebellum at 760 $\mu$m Resolution"
   authors: "Wenjiao Lyu, Ye Wu, Khoi Minh Huynh, Sahar Ahmad, Pew-Thian Yap"
@@ -1045,6 +1175,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "High-order tensor-diffusion MR sparse imaging based on compressed sensing"
   authors: "Feng Yuanjing, Wu Ye, Zhang Guijun, others"
@@ -1053,6 +1184,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Exploring the Potential Applications of Relaxation-Diffusion Spectrum Imaging in Neurosurgical Studies"
   authors: "Ye Wu, Xiaoming Liu, Peng Sun, Yizhe Zhang, Jiaolong Qin, Tao Zhou"
@@ -1061,6 +1193,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Demonstration of TE-dependence of lateralization of structural connectomes"
   authors: "Yifei He, Xiaoming Liu, Peng Sun, Tenglong Wang, Yizhe Zhang, Jiaolong Qin, Tao Zhou, Ye Wu"
@@ -1069,6 +1202,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Demonstration of TE-dependence of tissue microstructure estimation"
   authors: "Tenglong Wang, Yifei He, Xiaoming Liu, Peng Sun, Yizhe Zhang, Jiaolong Qin, Jiahao Yu, Tao Zhou, Ye Wu"
@@ -1077,6 +1211,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Vertical Orbitofrontal Fascicles in the Brain: A Preliminary Confirmation via Diffusion Tractography"
   authors: "Ye Wu, Yifei He, Tao Zhou, Xiaoming Liu"
@@ -1085,6 +1220,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Structural Connectivity Network in Human Brain Concerning Transgenderism"
   authors: "Ye Wu, Yifei He, Tao Zhou, Xiaoming Liu"
@@ -1093,6 +1229,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Subcortical Parcellation of the Human Brain via Automated Voxel Annotation with Fiber Clusters"
   authors: "Ye Wu, Sahar Ahmad, Pew-Thian Yap"
@@ -1101,6 +1238,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Harmonization of Cortical Thickness Measurements Throughout the Human Lifespan"
   authors: "Sahar Ahmad, Fang Nan, Ye Wu, Zhengwang Wu, Weili Lin, Li Wang, Gang Li, Di Wu, Pew-Thian Yap"
@@ -1109,6 +1247,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Cortical Hierarchy in the Infant Brain Revealed by a Large-scale Neural Circuit Model"
   authors: "Guoshi Li, Hoyt Taylor, Ye Wu, Sahar Ahmad, Kimhan Thung, Zhengwang Wu, Gang Li, Li Wang, Pew-Thian Lin, Weili, Yap"
@@ -1117,6 +1256,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "MRI Brain Tissue Segmentation Across the Human Lifespan"
   authors: "Xiaoyang Chen, Sahar Ahmad, Yicheng Zou, Jinjian Wu, Wenjiao Lyu, Ye Wu, Yap Pew-Thian"
@@ -1125,6 +1265,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Whole Brain Parcellation Over the Human Lifespan"
   authors: "Ye Wu, Sahar Ahmad, Wenjiao Lyu, Yap Pew-Thian"
@@ -1133,6 +1274,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Growth Charts for Regional Cortical Thickness Across the Human Lifespan"
   authors: "Sahar Ahmad, Ye Wu, Zhengwang Wu, Weili Lin, Li Wang, Gang Li, Pew-Thian Yap"
@@ -1141,6 +1283,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Superficial White Matter Tract Atlases Across the Human Lifespan"
   authors: "Ye Wu, Sahar Ahmad, Wenjiao Lyu, Yap Pew-Thian"
@@ -1149,6 +1292,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "弥散磁共振成像在中医诊疗中的机遇与挑战."
   authors: "吴烨, 和岚翔, 张鑫媛, 伏云鹤, 刘小明, 何建忠"
@@ -1157,6 +1301,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "MICCAI-CDMRI 2023 QuantConn challenge findings on achieving robust quantitative connectivity through harmonized preprocessing of diffusion MRI"
   authors: "Nancy R Newlin, Kurt Schilling, Serge Koudoro, Bramsh Qamar Chandio, Praitayini Kanakaraj, Daniel Moyer, Claire E Kelly, Sila Genc, Jian Chen, Joseph Yuan-Mou Yang, others"
@@ -1165,6 +1310,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "DDEvENet: Evidence-based ensemble learning for uncertainty-aware brain parcellation using diffusion MRI"
   authors: "Chenjun Li, Dian Yang, Shun Yao, Shuyue Wang, Ye Wu, Le Zhang, Qiannuo Li, Kang Ik Kevin Cho, Johanna Seitz-Holland, Lipeng Ning, others"
@@ -1173,6 +1319,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Data tells the truth: a knowledge distillation method for genomic survival analysis by handling censoring"
   authors: "Xiu-Shen Wei, He-Yang Xu, Ye Wu, Xiaoming Liu, Ruru Gao, Jiacheng Liu, Bowen Du"
@@ -1181,6 +1328,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Spherical harmonics-based deep learning achieves generalized and accurate diffusion tensor imaging"
   authors: "Yunwei Chen, Jialong Li, Qiqi Lu, Ye Wu, Xiaoming Liu, Yuanyuan Gao, Yanqiu Feng, Zhicheng Zhang, Xinyuan Zhang"
@@ -1189,6 +1337,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Reliable Deep Diffusion Tensor Estimation: Rethinking the Power of Data-Driven Optimization Routine"
   authors: "Jialong Li, Zhicheng Zhang, Yunwei Chen, Qiqi Lu, Ye Wu, Xiaoming Liu, QianJin Feng, Yanqiu Feng, Xinyuan Zhang"
@@ -1197,6 +1346,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Textpolyp: Point-supervised polyp segmentation with text cues"
   authors: "Yiming Zhao, Yi Zhou, Yizhe Zhang, Ye Wu, Tao Zhou"
@@ -1205,6 +1355,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Advanced Diffusion MRI in Developing Brain"
   authors: "Ye Wu, Lanxiang He, Xinyuan Zhang, Fan Zhang"
@@ -1213,6 +1364,7 @@
   type: "incollection"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Spherical-deconvolution informed filtering of tractograms changes laterality of structural connectome"
   authors: "Yifei He, Yoonmi Hong, Ye Wu"
@@ -1221,6 +1373,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Neuroscience for Neurosurgeons"
   authors: "Farhana Akter, Nigel Emptage, Florian Engert, Mitchel S Berger"
@@ -1229,6 +1382,7 @@
   type: "book"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "一种新的评估脑白质纤维形态变化的长度特征构建"
   authors: "董卫红, 秦姣龙, 倪黄晶, 罗丹丹, 吴烨, 姚志剑, 卢青"
@@ -1237,6 +1391,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Combining Segment Anything Model with Domain-Specific Knowledge for Semi-Supervised Learning in Medical Image Segmentation"
   authors: "Yizhe Zhang, Tao Zhou, Ye Wu, Pengfei Gu, Shuo Wang"
@@ -1245,6 +1400,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "WeakPolyp-SAM: Segment Anything Model-driven weakly-supervised polyp segmentation"
   authors: "Yiming Zhao, Tao Zhou, Yunqi Gu, Yi Zhou, Yizhe Zhang, Ye Wu, Huazhu Fu"
@@ -1253,6 +1409,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Isaiah Norton, Yogesh Rathi, Alexandra J. Golby, and Lauren J. O’Donnell. 2019.“Test-Retest Reproducibility of White Matter Parcellation Using Diffusion MRI Tractography Fiber Clustering.”"
   authors: "Fan Zhang, Ye Wu"
@@ -1261,6 +1418,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Oct. 2018. An anatomically curated fiber clustering white matter atlas for consistent white matter tract parcellation across the lifespan"
   authors: "Fan Zhang, Ye Wu, I Norton, L Rigolo, Y Rathi, N Makris, LJ O’Donnell"
@@ -1269,6 +1427,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Creation of a cross-population white matter atlas for concurrent mapping of brain connections between Eastern and Western populations"
   authors: "Yijie Li, Wei Zhang, Ye Wu, Li Yin, Yuqian Chen, Suheyla Cetin-Karayumak, Kang Ik Kevin Cho, Leo R Zekelman, Jarrett Rushmore, Yogesh Rathi, others"
@@ -1277,6 +1436,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Norton Isaiah, Rigolo Laura, Rathi Yogesh, Makris Nikos, O’Donnell Lauren J. An anatomically curated fiber clustering white matter atlas for consistent white matter tract parcellation across the lifespan"
   authors: "Zhang Fan, Wu Ye"
@@ -1285,6 +1445,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Uncertainty-Aware Anatomical Brain Parcellation using Diffusion MRI"
   authors: "Chenjun Li, Ye Wu, Le Zhang, Qiannuo Li, Shuyue Wang, Shun Yao, Kang Ik Kevin Cho, Johanna Seitz-Holland, Lipeng Ning, Jon Haitz Legarreta, others"
@@ -1293,6 +1454,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Isaiah Norton, Laura Rigolo, Yogesh Rathi, Nikos Makris, and Lauren J O’Donnell. An anatomically curated fiber clustering white matter atlas for consistent white matter tract parcellation across the lifespan"
   authors: "Fan Zhang, Ye Wu"
@@ -1301,6 +1463,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "FibGrid: Characterizing Anatomical Pathways in Hypergrid for Direct Tract Segmentation"
   authors: "Yu Xie, Yazhe Zhai, Yifei He, Jiahao Yu, Jiaolong Qin, Ye Wu"
@@ -1309,6 +1472,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Jointly Estimation of Microstructure Maps Across Acquisition Protocols"
   authors: "Tenglong Wang, Jiahao Yu, Yiang Pan, Jianzhong He, Yifei He, Ye Wu"
@@ -1317,6 +1481,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Revealing excitation-inhibition imbalance in Alzheimer’s disease using multiscale neural model inversion of resting-state functional MRI"
   authors: "Guoshi Li, Li-Ming Hsu, Ye Wu, Andrea C Bozoki, Yen-Yu Ian Shih, Pew-Thian Yap"
@@ -1325,6 +1490,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Soma and neurite density imaging detects brain microstructural impairments in amyotrophic lateral sclerosis"
   authors: "Jing-Yi Zeng, Hui-Wei Huang, Shao-Peng Zhuang, Ye Wu, Sheng Chen, Zhang-Yu Zou, Hua-Jun Chen"
@@ -1333,6 +1499,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Deep learning-based diffusion MRI tractography: Integrating spatial and anatomical information"
   authors: "Yiqiong Yang, Yitian Yuan, Baoxing Ren, Ye Wu, Yanqiu Feng, Xinyuan Zhang"
@@ -1341,6 +1508,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "A Novel Streamline-Based Diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection"
   authors: "Junyi Wang, Mubai Du, Ye Wu, Yijie Li, William M Wells III, Lauren J O’Donnell, Fan Zhang"
@@ -1349,6 +1517,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Corrigendum: Alterations via inter-regional connective relationships in Alzheimer's disease"
   authors: "Xiaomei Ren, Bowen Dong, Ying Luan, Ye Wu, Yunzhi Huang, Alzheimer's Disease Neuroimaging Initiative"
@@ -1357,6 +1526,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Differential patterns of axonal loss associated with threat-related adversity in atypical depression and non-atypical depression"
   authors: "Huifeng Zhang, Lei Ding, Lanxiang He, Rubai Zhou, Wenxian Lu, Tenghuan Xu, Ye Wu, Daihui Peng"
@@ -1365,6 +1535,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Association of aberrant gray matter neurite density with neurovegetative symptom in atypical depression"
   authors: "Huifeng Zhang, Rubai Zhou, Wenxian Lu, Yousong Su, Yiyun Cai, Jia Huang, Shen He, Lei Ding, Yun Wang, Min Zhang, others"
@@ -1373,6 +1544,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "A novel baseline perspective visibility graph for time series analysis"
   authors: "Huang-Jing Ni, Zi-Jie Song, Jiao-Long Qin, Ye Wu, Shi-Le Qi, Ming Song"
@@ -1381,6 +1553,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Exploring Consistency of Connectome Across Species Using Inter-Bundle Topological Graph Network (ibTGN)"
   authors: "Yazhe Zhai, Yu Xie, Yifei He, Jiaolong Qin, Ye Wu, others"
@@ -1389,6 +1562,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Unsupervised Normative Learning for Quality Assessment on Diffusion MRI"
   authors: "Jiahao Yu, Tenglong Wang, Yifei He, Yiang Pan, Jianzhong He, Ye Wu"
@@ -1397,6 +1571,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Toward diffusion MRI in the diagnosis and treatment of pancreatic cancer"
   authors: "Junhao Lee, Tingting Lin, Yifei He, Ye Wu, Jiaolong Qin"
@@ -1405,6 +1580,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Recent advances in pediatric neuroradiology"
   authors: "Sahar Ahmad, Yunzhi Huang, Ye Wu"
@@ -1413,6 +1589,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Unified Framework for Oculomotor Nerve Reconstruction: Tractography-Based Anatomical Assessment"
   authors: "Jiahao Huang, Qingrun Zeng, Ye Wu, Jiawei Zhang, Mengjun Li, Lei Xie, Mingchu Li, Yuanjing Feng"
@@ -1421,6 +1598,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "A new gradient-based method for analyzing brain white matter fiber geometry"
   authors: "Jiaolong Qin, Weihong Dong, Huangjing Ni, Ye Wu, Haiyan Liu, Zhijian Yao, Qing Lu"
@@ -1429,6 +1607,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Developing Brain"
   authors: "Ye Wu, Lanxiang He, Xinyuan Zhang, Fan Zhang"
@@ -1437,6 +1616,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "DDTracking: A Deep Generative Framework for Diffusion MRI Tractography with Streamline Local-Global Spatiotemporal Modeling"
   authors: "Yijie Li, Wei Zhang, Xi Zhu, Ye Wu, Yogesh Rathi, Lauren J O'Donnell, Fan Zhang"
@@ -1445,6 +1625,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "弥散磁共振纤维束成像分割算法综述."
   authors: "张蔚, 李轶杰, 吴烨, 陈华富, 张帆"
@@ -1453,6 +1634,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Multi-scale convolutional adversarial autoencoder-based anomaly detector for lesion edge localization on diffusion MRI"
   authors: "Shuxin Cao, Tenglong Wang, Qingwei You, Yifei He, Jiaolong Qin, Ye Wu"
@@ -1461,6 +1643,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Toward Anatomical Pathways Changes in the Brain During Pregnancy with A Novel Multi-Scale Shape Analysis Method"
   authors: "Yu Xie, Yifei He, Yazhe Zhai, Tenglong Wang, Jiahao Yu, Jiaolong Qin, Ye Wu"
@@ -1469,6 +1652,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Jointly Multi-Model Microstructural Estimation on Diffusion MRI with Contextual Features Aggregation"
   authors: "Tenglong Wang, Jiahao Yu, Yu Xie, Yifei He, Yazhe Zhai, Jiaolong Qin, Ye Wu"
@@ -1477,6 +1661,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Lesion detection in stroke patients based on intra-modality features on Diffusion MRI"
   authors: "Shuxin Cao, Yifei He, Tenglong Wang, Jiaolong Qin, Ye Wu"
@@ -1485,6 +1670,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "A Novel Path Signature-Based Metric for Quantifying Morphological Characteristics of White Matter Fibers"
   authors: "Jiaolong Qin, D Dong, Huangjing Ni, Zhijian Yao, Qing Lu, Ye Wu"
@@ -1493,6 +1679,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Path Signature Features Revealed SSRI-Induced White Matter Morphological Reorganization in Depressions"
   authors: "Jiaolong Qin, Weihong Dong, Huangjing Ni, Zhijian Yao, Qing Lu, Ye Wu"
@@ -1501,6 +1688,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Neurite Microstructure Characterization in the Mouse Brain Using Relaxation-Diffusion MRI"
   authors: "Baoxing Ren, Ye Wu, Quan Tao, Yanqiu Feng, Xinyuan Zhang"
@@ -1509,6 +1697,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Computational Diffusion MRI"
   authors: "Elisenda Bonet-Carne, Francesco Grussu, Lipeng Ning, Farshid Sepehrband, Chantal MW Tax"
@@ -1517,6 +1706,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Explore the Heterogeneity in Gender Identity across Brain Morphology and Personality Traits"
   authors: "Hiuying Yip, Yifei He, Jiaolong Qin, Ye Wu"
@@ -1525,6 +1715,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Multifaceted Atlas of Superficial White Matter Pathway Using Ultra-High-Field Diffusion MRI"
   authors: "Yifei He, Yoonmi Hong, Yu Xie, Tenglong Wang, Jiaolong Qin, Ye Wu"
@@ -1533,6 +1724,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "A Deep Diffusion Model Approach for Diffusion MRI White Matter Fiber Tractography"
   authors: "Yijie Li, Wei Zhang, Xi Zhu, Ye Wu, Yogesh Rathi, Lauren J O’Donnell, Fan Zhang"
@@ -1541,6 +1733,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Tissue Segmentation Using Sparse Non-negative Matrix Factorization"
   authors: "Peng Sun, Ye Wu, Geng Chen, Jun Wu, Dinggang Shen, Pew-Thian Yap"
@@ -1549,6 +1742,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Introducing QuantConn: Overcoming Challenging Diffusion Acquisitions with Harmonization"
   authors: "Nancy Newlin, Kurt Schilling, Serge Koudoro, Bramsh Qamar Chandio, Praitayini Kanakaraj, Daniel Moyer, Claire E Kelly, Sila Genc, Joseph Yuan-Mou Yang, Ye Wu, others"
@@ -1557,6 +1751,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "A Novel Deep Learning Approach for Tissue Microstructure Estimation Using Spherical Mean Technique"
   authors: "Yiang Pan, Yuanjing Feng, Jianzhong He, Jianan Cui, Lei Xie, Zan Chen, Qingrun Zeng, Jiawei Zhang, Yan Yu, Konstantin K Kukanov, others"
@@ -1565,6 +1760,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Opportunities and challenges of diffusion MRI in traditional Chinese medicine"
   authors: "WU Ye, HE Lanxiang, ZHANG Xinyuan, others"
@@ -1573,6 +1769,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "A novel baseline perspective visibility graph for time series analysis"
   authors: "Huang-Jing Ni, Zi-Jie Song, Jiao-Long Qin, Ye Wu, Shi-Le Qi, Ming Song"
@@ -1581,6 +1778,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Heterogeneity in brain morphology and psychological, cognitive, and contextual factors of gender identity"
   authors: "Hiuying Yip, Yifei He, Yoonmi Hong, Jiaolong Qin, Fan Zhang, Ye Wu"
@@ -1589,6 +1787,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "A relaxation-diffusion MRI dataset of aging mouse brains at 9.4 Tesla"
   authors: "Baoxing Ren, Ye Wu, Yan Liu, Yongpeng Bai, Quan Tao, Yanqiu Feng, Xinyuan Zhang"
@@ -1597,6 +1796,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Early Identification of Subjective Cognitive Decline Using 2D Horizontal Visibility Graph Analysis of Structural MRI Networks"
   authors: "Ni Huang-Jing, Dai Yu-Fei, Wu Ye, Qin Jiao-Long"
@@ -1605,6 +1805,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Cross-Species Cortical Parcellation via Homology Consensus Graph Representation Learning from Diffusion MRI Tractography"
   authors: "Yazhe Zhai, Yifei He, Zhonghua Wan, Yu Xie, Jiaolong Qin, Ye Wu"
@@ -1613,6 +1814,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Dual-Branch Deep Unfolding Network for Compressed Sensing MRI Reconstruction"
   authors: "Yujie Liu, Yu Luo, Jie Ling, Lieqing Lin, Ye Wu, Shun Yao"
@@ -1621,6 +1823,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Automated Mapping of Cranial Nerves Pathways in Human Brain: A Multi-Parametric Multi-Stage Diffusion Tractography Atlas"
   authors: "Lei Xie, Qingrun Zeng, Ye Wu, Yuanjing Feng"
@@ -1629,6 +1832,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Connectome-based consensus graph learning for fine-scale subcortical parcellation"
   authors: "Zhonghua Wan, Yu Xie, Yazhe Zhai, Lei Xie, Yifei He, Ye Wu"
@@ -1637,6 +1841,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Structural network communication differences in drug-naive depressed adolescents with non-suicidal self-injury and suicide attempts"
   authors: "Shuai Wang, Jiao-Long Qin, Lian-Lian Yang, Ying-Ying Ji, Hai-Xia Huang, Xiao-Shan Gao, Zi-Mo Zhou, Zhen-Ru Guo, Ye Wu, Lin Tian, others"
@@ -1645,6 +1850,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Integrating Jacobian Determinant and LDDMM for Evaluating White Matter"
   authors: "Zhaoxian Ming, Zhijian Yao, Yifei He, Yu Xie, Ye Wu, Jiaolong Qin"
@@ -1653,6 +1859,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "White Matter Stratification in Depression Predicts Multidimensional Antidepressant Responses"
   authors: "Jiaolong Qin, Xinyi Wang, Huangjing Ni, Ye Wu, Haiyan Liu, Lingling Hua, Rui Yan, Hao Tang, Peng Zhao, Zhijian Yao, others"
@@ -1661,6 +1868,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Superficial white matter microstructural impairments correlate with functional alterations and disease severity in early-stage amyotrophic lateral sclerosis"
   authors: "Shao-Peng Zhuang, Hui-Wei Huang, Jing-Yi Zeng, Jia-Yan Shi, Hong-Yu Lin, Sheng Chen, Ye Wu, Nao-Xin Huang, Zhang-Yu Zou, Hua-Jun Chen"
@@ -1669,6 +1877,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Detailed Connectomic Cluster Resource for White Matter Mapping From Ultra-High-Field Diffusion MRI"
   authors: "Hiuying Yip, Yifei He, Yu Xie, Fan Zhang, Ye Wu"
@@ -1677,6 +1886,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Streamline Signature Net (SSN): Efficient White Matter Pathway Recognition for Bundles Parcellation Using Path Signature"
   authors: "Renzhi Zhao, Xin Zhang, Zihao Tan, Jiakun Xu, Zhenyu Yang, Ye Wu, Xiangmin Xu"
@@ -1685,6 +1895,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Multi-organ network of cardiometabolic disease-depression multimorbidity revealed by phenotypic and genetic analyses of MR images"
   authors: "Jingxuan Wang, Mianxin Liu, Feng Liu, Guangrui Yang, Zhongshang Yuan, Hao Huang, Zixuan Zhang, Lilong Wang, Ye Wu, Wenliang Fan, others"
@@ -1693,6 +1904,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Constructing fine-grained subcortical atlases with connectional consensus graph representation learning"
   authors: "Zhonghua Wan, Peng Wang, Yazhe Zhai, Yu Xie, Yifei He, Ye Wu"
@@ -1701,6 +1913,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Childhood chronic stress associated with abnormal brain white matter networks in first-episode, drug-na\"
   authors: "Zhujun Wang, Zhaoxian Ming, Meijiang Jin, Maojia Ran, Hang Zhang, Yuanmei Tao, Hanmei Xu, Shoukang Zou, Ye Wu, Li Yin"
@@ -1709,6 +1922,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Aberrantly high activation of a FoxM1--STMN1 axis contributes to progression and tumorigenesis in FoxM1-driven cancers"
   authors: "Jun Liu, Jipeng Li, Ke Wang, Haiming Liu, Jianyong Sun, Xinhui Zhao, Yanping Yu, Yihuan Qiao, Ye Wu, Xiaofang Zhang, others"
@@ -1717,6 +1931,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "DDTracking: A Diffusion Model-Based Deep Generative Framework with Local-Global Spatiotemporal Modeling for Diffusion MRI Tractography"
   authors: "Yijie Li, Wei Zhang, Xi Zhu, Ye Wu, Yogesh Rathi, Lauren J O’Donnell, Fan Zhang"
@@ -1725,6 +1940,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Consensus Graph Representation Learning for Subcortical Parcellation on Diffusion MRI"
   authors: "Zhonghua Wan, Peng Wang, Yazhe Zhai, Yifei He, Yu Xie, Jiaolong Qin, Ye Wu"
@@ -1733,6 +1949,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Revitalizing Quantitative Imaging with a High-Quality Microstructural Codebook on Diffusion MRI"
   authors: "Tenglong Wang, Jiahao Yu, Xiaoming Liu, Shuxin Cao, Yuanjing Feng, Ye Wu"
@@ -1741,6 +1958,7 @@
   type: "inproceedings"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "The challenge of mapping the human connectome based on diffusion tractography (vol 8, 1349, 2017)"
   authors: "Klaus H Maier-Hein, Peter F Neher, Jean-Christophe Houde, Marc-Alexandre Cote, Eleftherios Garyfallidis, Jidan Zhong, Maxime Chamberland, Fang-Cheng Yeh, Ying-Chia Lin, Qing Ji, others"
@@ -1749,6 +1967,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Impairment of brain short association fibers across clinical stages in amyotrophic lateral sclerosis: a new biomarker mirroring disease progression"
   authors: "Nao-Xin Huang, Zi-Wei Cai, Shao-Peng Zhuang, Hong-Yu Lin, Sheng Chen, Zhang-Yu Zou, Ye Wu, Hua-Jun Chen"
@@ -1757,6 +1976,7 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
 
 - title: "Deep Learning Empowered Microstructure Codebook: New Paradigm for Multi-Parameter Tissue Characterization Estimation"
   authors: "Tenglong Wang, Zhonghua Wan, Shuxin Cao, Jiahao Yu, Yifei He, Yu Xie, Fan Zhang, Ye Wu"
@@ -1765,3 +1985,4 @@
   type: "article"
   doi: ""
   pdf: ""
+  abstract: ""
