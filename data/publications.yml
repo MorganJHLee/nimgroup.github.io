@@ -53,7 +53,7 @@
   abstract: ""
 
 - title: "Tractography-based connectomes are dominated by false-positive connections"
-  authors: "Klaus H Maier-Hein, Peter Neher, Jean-Christophe Houde, C\^o"
+  authors: "Klaus H Maier-Hein, Peter Neher, Jean-Christophe Houde, Côme Poulin"
   venue: "biorxiv"
   year: 2016
   type: "article"
@@ -62,7 +62,7 @@
   abstract: ""
 
 - title: "The challenge of mapping the human connectome based on diffusion tractography"
-  authors: "Klaus H Maier-Hein, Peter F Neher, Jean-Christophe Houde, C\^o"
+  authors: "Klaus H Maier-Hein, Peter F Neher, Jean-Christophe Houde, Côme Poulin"
   venue: "Nature communications"
   year: 2017
   type: "article"
@@ -395,7 +395,7 @@
   abstract: ""
 
 - title: "Author Correction: The challenge of mapping the human connectome based on diffusion tractography"
-  authors: "Klaus H Maier-Hein, Peter F Neher, Jean-Christophe Houde, C\^o"
+  authors: "Klaus H Maier-Hein, Peter F Neher, Jean-Christophe Houde, Côme Poulin"
   venue: "Nature communications"
   year: 2019
   type: "article"
@@ -413,7 +413,7 @@
   abstract: ""
 
 - title: "The challenge of mapping the human connectome based on diffusion tractography. Nat Commun 8: 1349"
-  authors: "KH Maier-Hein, PF Neher, JC Houde, C\^o"
+  authors: "KH Maier-Hein, PF Neher, JC Houde, Côme Poulin"
   venue: ""
   year: 2017
   type: "misc"
@@ -458,7 +458,7 @@
   abstract: ""
 
 - title: "The IronTract challenge: Validation and optimal tractography methods for the HCP diffusion acquisition scheme"
-  authors: "Jonathan Rafael-Patino Barakovic, Thomas Yu, Ga\ Rensonnet"
+  authors: "Jonathan Rafael-Patino Barakovic, Thomas Yu, Gaël Rensonnet"
   venue: ""
   year: 0
   type: "article"
@@ -836,7 +836,7 @@
   abstract: ""
 
 - title: "Tractography passes the test: Results from the diffusion-simulated connectivity (disco) challenge"
-  authors: "Gabriel Girard, Rafael-Pati\~n"
+  authors: "Gabriel Girard, Rafael-Patiño"
   venue: "NeuroImage"
   year: 2023
   type: "article"
@@ -1168,7 +1168,7 @@
   pdf: ""
   abstract: ""
 
-- title: "A Multimodal Atlas of the Human Cerebellum at 760 $\mu$m Resolution"
+- title: "A Multimodal Atlas of the Human Cerebellum at 760 μm Resolution"
   authors: "Wenjiao Lyu, Ye Wu, Khoi Minh Huynh, Sahar Ahmad, Pew-Thian Yap"
   venue: ""
   year: 0
@@ -1915,7 +1915,7 @@
   pdf: ""
   abstract: ""
 
-- title: "Childhood chronic stress associated with abnormal brain white matter networks in first-episode, drug-na\"
+- title: "Childhood chronic stress associated with abnormal brain white matter networks in first-episode, drug-naïve"
   authors: "Zhujun Wang, Zhaoxian Ming, Meijiang Jin, Maojia Ran, Hang Zhang, Yuanmei Tao, Hanmei Xu, Shoukang Zou, Ye Wu, Li Yin"
   venue: "Frontiers in Psychiatry"
   year: 2026

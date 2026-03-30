@@ -158,6 +158,11 @@
     border-bottom: 2px solid var(--tertiary);
 }
 
+.post-content table td,
+.post-content table th {
+    white-space: nowrap;
+}
+
 .post-content table:not(.highlighttable) td code:only-child {
     margin: auto 0;
 }
