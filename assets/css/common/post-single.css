@@ -158,9 +158,8 @@
     border-bottom: 2px solid var(--tertiary);
 }
 
-.post-content table td:first-child,
-.post-content table th:first-child {
-    width: 1%;
+.post-content table td,
+.post-content table th {
     white-space: nowrap;
 }
 
