@@ -159,7 +159,9 @@
 }
 
 .post-content table td:first-child,
-.post-content table th:first-child {
+.post-content table th:first-child,
+.post-content table td:nth-child(2),
+.post-content table th:nth-child(2) {
     width: 1%;
     white-space: nowrap;
 }
