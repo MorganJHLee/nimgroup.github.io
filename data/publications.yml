@@ -53,7 +53,7 @@
   abstract: ""
 
 - title: "Tractography-based connectomes are dominated by false-positive connections"
-  authors: "Klaus H Maier-Hein, Peter Neher, Jean-Christophe Houde, C\^o"
+  authors: "Klaus H Maier-Hein, Peter Neher, Jean-Christophe Houde, Côme Poulin"
   venue: "biorxiv"
   year: 2016
   type: "article"
@@ -62,7 +62,7 @@
   abstract: ""
 
 - title: "The challenge of mapping the human connectome based on diffusion tractography"
-  authors: "Klaus H Maier-Hein, Peter F Neher, Jean-Christophe Houde, C\^o"
+  authors: "Klaus H Maier-Hein, Peter F Neher, Jean-Christophe Houde, Côme Poulin"
   venue: "Nature communications"
   year: 2017
   type: "article"
@@ -395,7 +395,7 @@
   abstract: ""
 
 - title: "Author Correction: The challenge of mapping the human connectome based on diffusion tractography"
-  authors: "Klaus H Maier-Hein, Peter F Neher, Jean-Christophe Houde, C\^o"
+  authors: "Klaus H Maier-Hein, Peter F Neher, Jean-Christophe Houde, Côme Poulin"
   venue: "Nature communications"
   year: 2019
   type: "article"
@@ -413,7 +413,7 @@
   abstract: ""
 
 - title: "The challenge of mapping the human connectome based on diffusion tractography. Nat Commun 8: 1349"
-  authors: "KH Maier-Hein, PF Neher, JC Houde, C\^o"
+  authors: "KH Maier-Hein, PF Neher, JC Houde, Côme Poulin"
   venue: ""
   year: 2017
   type: "misc"
