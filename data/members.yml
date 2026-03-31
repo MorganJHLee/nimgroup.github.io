@@ -4,190 +4,189 @@
 
 # ── Faculty ──────────────────────────────────────────────────────────────────
 
-- name: "吴烨 Ye Wu"
-  role: "Professor"
-  email: "wuye@njust.edu.cn"
-  photo: "/members/吴烨.jpg"
-  category: "Faculty"
+- name: '吴烨 Ye Wu'
+  role: 'Professor'
+  email: 'wuye@njust.edu.cn'
+  photo: '/members/吴烨.png'
+  category: 'Faculty'
 
-- name: "秦姣龙 Jiaolong Qin"
-  role: "Associate Professor"
-  email: "jiaolongq@njust.edu.cn"
-  photo: "/members/秦姣龙.jpeg"
-  category: "Faculty"
-
+- name: '秦姣龙 Jiaolong Qin'
+  role: 'Associate Professor'
+  email: 'jiaolongq@njust.edu.cn'
+  photo: '/members/秦姣龙.jpeg'
+  category: 'Faculty'
 
 # ── Students ─────────────────────────────────────────────────────────────────
 # Sorted by importance (1=PhD early cohort → 6=Undergrad)
 
-- name: "谢雨 Yu Xie"
-  role: "PhD student (2024)"
-  email: "xieyu@njust.edu.cn"
-  photo: "/members/谢雨.jpg"
-  category: "Students"
+- name: '谢雨 Yu Xie'
+  role: 'PhD student (2024)'
+  email: 'xieyu@njust.edu.cn'
+  photo: '/members/谢雨.jpg'
+  category: 'Students'
 
-- name: "万中华 Zhonghua Wan"
-  role: "PhD student (2025)"
-  email: "zhonghuawan@njust.edu.cn"
-  photo: "/members/万中华.jpg"
-  category: "Students"
+- name: '万中华 Zhonghua Wan'
+  role: 'PhD student (2025)'
+  email: 'zhonghuawan@njust.edu.cn'
+  photo: '/members/万中华.jpg'
+  category: 'Students'
 
-- name: "章诚哲 Chengzhe Zhang"
-  role: "PhD student (2025)"
-  email: "zhang_zcz@163.com"
-  photo: "/members/章诚哲.jpeg"
-  category: "Students"
+- name: '章诚哲 Chengzhe Zhang'
+  role: 'PhD student (2025)'
+  email: 'zhang_zcz@163.com'
+  photo: '/members/章诚哲.jpeg'
+  category: 'Students'
 
-- name: "Hamad Adil"
-  role: "PhD student (2025)"
-  email: "newhamadadilzia@gmail.com"
-  photo: "/members/Adil.jpg"
-  category: "Students"
+- name: 'Hamad Adil'
+  role: 'PhD student (2025)'
+  email: 'newhamadadilzia@gmail.com'
+  photo: '/members/Adil.jpg'
+  category: 'Students'
 
-- name: "王腾龙 Tenglong Wang"
-  role: "Master student (2023)"
-  email: "wangtl156@gmail.com"
-  photo: "/members/王腾龙.jpg"
-  category: "Students"
+- name: '王腾龙 Tenglong Wang'
+  role: 'Master student (2023)'
+  email: 'wangtl156@gmail.com'
+  photo: '/members/王腾龙.jpg'
+  category: 'Students'
 
-- name: "于嘉豪 Jiahao Yu"
-  role: "Master student (2023)"
-  email: "yjh200319@gmail.com"
-  photo: "/members/于嘉豪.jpg"
-  category: "Students"
+- name: '于嘉豪 Jiahao Yu'
+  role: 'Master student (2023)'
+  email: 'yjh200319@gmail.com'
+  photo: '/members/于嘉豪.jpg'
+  category: 'Students'
 
-- name: "翟亚哲 Yazhe Zhai"
-  role: "Master student (2023)"
-  email: "zhaiyazhe@gmail.com"
-  photo: "/members/翟亚哲.jpg"
-  category: "Students"
+- name: '翟亚哲 Yazhe Zhai'
+  role: 'Master student (2023)'
+  email: 'zhaiyazhe@gmail.com'
+  photo: '/members/翟亚哲.jpg'
+  category: 'Students'
 
-- name: "曹书鑫 Shuxin Cao"
-  role: "Master student (2024)"
-  email: "124106010740@njust.edu.cn"
-  photo: "/members/曹书鑫.jpg"
-  category: "Students"
+- name: '曹书鑫 Shuxin Cao'
+  role: 'Master student (2024)'
+  email: '124106010740@njust.edu.cn'
+  photo: '/members/曹书鑫.jpg'
+  category: 'Students'
 
-- name: "何翌菲 Yifei He"
-  role: "Master student (2024)"
-  email: "mushroomer0206@gmail.com"
-  photo: "/members/何翌菲.jpg"
-  category: "Students"
+- name: '何翌菲 Yifei He'
+  role: 'Master student (2024)'
+  email: 'mushroomer0206@gmail.com'
+  photo: '/members/何翌菲.jpg'
+  category: 'Students'
 
-- name: "霍奕如 Yiru Huo"
-  role: "Master student (2024)"
-  email: "huoyiru137@gmail.com"
-  photo: "/members/霍奕如.jpg"
-  category: "Students"
+- name: '霍奕如 Yiru Huo'
+  role: 'Master student (2024)'
+  email: 'huoyiru137@gmail.com'
+  photo: '/members/霍奕如.jpg'
+  category: 'Students'
 
-- name: "明钊贤 Zhaoxian Ming"
-  role: "Master student (2024)"
-  email: "mingzhaoxian@njust.edu.cn"
-  photo: "/members/明钊贤.jpg"
-  category: "Students"
+- name: '明钊贤 Zhaoxian Ming'
+  role: 'Master student (2024)'
+  email: 'mingzhaoxian@njust.edu.cn'
+  photo: '/members/明钊贤.jpg'
+  category: 'Students'
 
-- name: "尤晴苇 Qingwei You"
-  role: "Master student (2024)"
-  email: "youqingwei1024@gmail.com"
-  photo: "/members/尤晴苇.jpg"
-  category: "Students"
+- name: '尤晴苇 Qingwei You'
+  role: 'Master student (2024)'
+  email: 'youqingwei1024@gmail.com'
+  photo: '/members/尤晴苇.jpg'
+  category: 'Students'
 
-- name: "邓怡如 Yiru Deng"
-  role: "Master student (2025)"
-  email: "yirinadeng@gmail.com"
-  photo: "/members/邓怡如.jpg"
-  category: "Students"
+- name: '邓怡如 Yiru Deng'
+  role: 'Master student (2025)'
+  email: 'yirinadeng@gmail.com'
+  photo: '/members/邓怡如.jpg'
+  category: 'Students'
 
-- name: "李羽姗 Yushan Li"
-  role: "Master student (2025)"
-  email: "yushanli36@gmail.com"
-  photo: "/members/李羽姗.jpg"
-  category: "Students"
+- name: '李羽姗 Yushan Li'
+  role: 'Master student (2025)'
+  email: 'yushanli36@gmail.com'
+  photo: '/members/李羽姗.jpg'
+  category: 'Students'
 
-- name: "任硕萌 Shuomeng Ren"
-  role: "Master student (2025)"
-  email: "shuomengren.njust@gmail.com"
-  photo: "/members/任硕萌.jpg"
-  category: "Students"
+- name: '任硕萌 Shuomeng Ren'
+  role: 'Master student (2025)'
+  email: 'shuomengren.njust@gmail.com'
+  photo: '/members/任硕萌.jpg'
+  category: 'Students'
 
-- name: "孙梦茹 Mengru Sun"
-  role: "Master student (2025)"
-  email: "s1691047541@gmail.com"
-  photo: "/members/孙梦茹.jpg"
-  category: "Students"
+- name: '孙梦茹 Mengru Sun'
+  role: 'Master student (2025)'
+  email: 's1691047541@gmail.com'
+  photo: '/members/孙梦茹.jpg'
+  category: 'Students'
 
-- name: "王鹏 Peng Wang"
-  role: "Master student (2025)"
-  email: "vvp99576@gmail.com"
-  photo: "/members/王鹏.jpg"
-  category: "Students"
+- name: '王鹏 Peng Wang'
+  role: 'Master student (2025)'
+  email: 'vvp99576@gmail.com'
+  photo: '/members/王鹏.jpg'
+  category: 'Students'
 
-- name: "万芊 Qian Wan"
-  role: "Master student (2025)"
-  email: "wanqiann26@gmail.com"
-  photo: "/members/万芊.jpg"
-  category: "Students"
+- name: '万芊 Qian Wan'
+  role: 'Master student (2025)'
+  email: 'wanqiann26@gmail.com'
+  photo: '/members/万芊.jpg'
+  category: 'Students'
 
-- name: "王玉洁 Yujie Wang"
-  role: "Master student (2025)"
-  email: "wyj92929@gmail.com"
-  photo: "/members/王玉洁.jpg"
-  category: "Students"
+- name: '王玉洁 Yujie Wang'
+  role: 'Master student (2025)'
+  email: 'wyj92929@gmail.com'
+  photo: '/members/王玉洁.jpg'
+  category: 'Students'
 
-- name: "严孝东 Xiaodong Yan"
-  role: "Master student (2025)"
-  email: "yanxiaodong@njust.edu.cn"
-  photo: "/members/严孝东.jpg"
-  category: "Students"
+- name: '严孝东 Xiaodong Yan'
+  role: 'Master student (2025)'
+  email: 'yanxiaodong@njust.edu.cn'
+  photo: '/members/严孝东.jpg'
+  category: 'Students'
 
-- name: "赵天骏 Tianjun Zhao"
-  role: "Master student (2025)"
-  email: "zhaotianjun.njust@gmail.com"
-  photo: "/members/赵天骏.jpg"
-  category: "Students"
+- name: '赵天骏 Tianjun Zhao'
+  role: 'Master student (2025)'
+  email: 'zhaotianjun.njust@gmail.com'
+  photo: '/members/赵天骏.jpg'
+  category: 'Students'
 
-- name: "和岚翔 Lanxiang He"
-  role: "Undergrad student"
-  email: "lanxianghe809@gmail.com"
-  photo: "/members/和岚翔.jpg"
-  category: "Students"
+- name: '和岚翔 Lanxiang He'
+  role: 'Undergrad student'
+  email: 'lanxianghe809@gmail.com'
+  photo: '/members/和岚翔.jpg'
+  category: 'Students'
 
-- name: "李俊浩 Morgan Lee"
-  role: "Undergrad student"
-  email: "m.junhao.lee@gmail.com"
-  photo: "/members/李俊浩.jpg"
-  category: "Students"
+- name: '李俊浩 Morgan Lee'
+  role: 'Undergrad student'
+  email: 'm.junhao.lee@gmail.com'
+  photo: '/members/李俊浩.jpg'
+  category: 'Students'
 
 # ── Alumni ───────────────────────────────────────────────────────────────────
 
-- name: "叶晓莹"
-  bio: "清华大学（深圳）"
-  category: "Alumni"
+- name: '叶晓莹'
+  bio: '清华大学（深圳）'
+  category: 'Alumni'
 
-- name: "顾苗苗"
-  bio: "中国科学院信息工程研究所"
-  category: "Alumni"
+- name: '顾苗苗'
+  bio: '中国科学院信息工程研究所'
+  category: 'Alumni'
 
-- name: "马赫遥"
-  bio: "布里斯托大学（英国）"
-  category: "Alumni"
+- name: '马赫遥'
+  bio: '布里斯托大学（英国）'
+  category: 'Alumni'
 
-- name: "樊佳鑫"
-  bio: "西安交通大学"
-  category: "Alumni"
+- name: '樊佳鑫'
+  bio: '西安交通大学'
+  category: 'Alumni'
 
-- name: "赵明哲"
-  bio: "南京理工大学"
-  category: "Alumni"
+- name: '赵明哲'
+  bio: '南京理工大学'
+  category: 'Alumni'
 
-- name: "王文凯"
-  bio: "悉尼大学（澳大利亚）"
-  category: "Alumni"
+- name: '王文凯'
+  bio: '悉尼大学（澳大利亚）'
+  category: 'Alumni'
 
-- name: "宋庆福"
-  bio: "研发工程师"
-  category: "Alumni"
+- name: '宋庆福'
+  bio: '研发工程师'
+  category: 'Alumni'
 
-- name: "张佑华"
-  bio: "创业"
-  category: "Alumni"
+- name: '张佑华'
+  bio: '创业'
+  category: 'Alumni'
