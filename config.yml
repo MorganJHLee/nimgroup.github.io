@@ -25,6 +25,9 @@ menu:
     - name: Member
       url: members/
       weight: 4
+    - name: Photos
+      url: photos/
+      weight: 5
     - name: Source
       url: source/
       weight: 6
