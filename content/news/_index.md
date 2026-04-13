@@ -6,6 +6,13 @@ hidemeta: true
 
 | Date | | News |
 | :------- | :-- | :----------------------------------------------------------------------------------------------------------------------- |
+| Mar 2026 | | :sparkles: One paper was accepted by `Human Brain Mapping`                                                               |
+| Mar 2026 | | :sparkles: One paper was accepted by `BMC Medicine`                                                                      |
+| Feb 2026 | | :sparkles: Six papers were accepted by `ISBI 2026`, 4 for oral presentations and 2 for poster                            |
+| Jan 2026 | | :sparkles: One paper was accepted by `Frontiers in Psychiatry`                                                           |
+| Jan 2026 | | :sparkles: One paper was accepted by `Physics in Medicine and Biology`                                                   |
+| Jan 2026 | | :sparkles: One paper was accepted by `Medical Image Analysis`                                                            |
+| Jan 2026 | | :sparkles: One paper was accepted by `Neuroimage`                                                                        |
 | Dec 2025 | | :sparkles: One paper was accepted by `Nature Communications`                                                             |
 | Dec 2025 | | :sparkles: One paper was accepted by `La radiologia medica`                                                              |
 | Dec 2025 | | :sparkles: Three NIMG members were awarded the Student Travel Grant in BIBM 2025                                         |
