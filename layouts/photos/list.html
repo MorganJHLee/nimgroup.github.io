@@ -1,0 +1,43 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <p class="photos-page-desc">{{ .Description }}</p>
+  {{- end }}
+</header>
+
+{{- if .Content }}
+<div class="post-content">
+  {{ .Content }}
+</div>
+{{- end }}
+
+{{- range site.Data.photos }}
+<section class="photos-category">
+  <h2 class="photos-category-title">{{ .title }}</h2>
+  {{- if .description }}
+  <p class="photos-category-desc">{{ .description }}</p>
+  {{- end }}
+
+  <div class="photos-grid">
+    {{- range .photos }}
+    {{- $size := .size | default "normal" }}
+    <figure class="photo-item photo-item--{{ $size }}">
+      <img
+        src="{{ .file }}"
+        alt="{{ .alt }}"
+        class="photo-img"
+        loading="lazy"
+        decoding="async"
+      >
+      {{- if .caption }}
+      <figcaption class="photo-caption">{{ .caption }}</figcaption>
+      {{- end }}
+    </figure>
+    {{- end }}
+  </div>
+</section>
+{{- end }}
+
+{{- end }}{{/* end main */}}

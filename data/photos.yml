@@ -1,0 +1,60 @@
+# Photos Gallery Data
+# ──────────────────────────────────────────────────────────────────────────────
+# Each top-level entry is a category (e.g. "Group Activities", "Conferences").
+# Photos within each category support the following fields:
+#
+#   file     – path relative to /static/, e.g. /photos/activities/photo.jpg
+#   alt      – screen-reader alternative text (required)
+#   caption  – optional visible caption shown on hover
+#   size     – layout hint (optional, defaults to "normal"):
+#                normal  →  1 column × 1 row
+#                wide    →  2 columns × 1 row
+#                tall    →  1 column × 2 rows
+#                large   →  2 columns × 2 rows
+# ──────────────────────────────────────────────────────────────────────────────
+
+- title: "Group Activities"
+  description: "Annual retreats, lab celebrations, and everyday moments."
+  photos:
+    - file: "/photos/activities/retreat-2024.jpg"
+      alt: "Lab annual retreat 2024, group photo"
+      caption: "Annual Retreat 2024"
+      size: wide
+
+    - file: "/photos/activities/team-dinner.jpg"
+      alt: "Lab team dinner, winter 2023"
+      caption: "Winter Dinner 2023"
+      size: tall
+
+    - file: "/photos/activities/lab-gathering.jpg"
+      alt: "Lab gathering, spring 2024"
+      caption: "Spring Gathering 2024"
+      size: normal
+
+    - file: "/photos/activities/lab-all-hands.jpg"
+      alt: "Full lab group photo, spring 2025"
+      caption: "Spring 2025 All-Hands"
+      size: normal
+
+    - file: "/photos/activities/birthday-celebration.jpg"
+      alt: "Lab birthday celebration"
+      caption: "Lab Birthday Celebration"
+      size: large
+
+- title: "Conferences"
+  description: "Presentations and networking at academic venues."
+  photos:
+    - file: "/photos/conferences/miccai-2024.jpg"
+      alt: "MICCAI 2024 poster session"
+      caption: "MICCAI 2024"
+      size: normal
+
+    - file: "/photos/conferences/ismrm-2024.jpg"
+      alt: "ISMRM 2024 oral presentation"
+      caption: "ISMRM 2024"
+      size: wide
+
+    - file: "/photos/conferences/conference-group.jpg"
+      alt: "Group photo at conference"
+      caption: "Conference Group Photo"
+      size: tall
