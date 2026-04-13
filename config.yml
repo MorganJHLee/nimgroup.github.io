@@ -78,6 +78,8 @@ params:
         url: publications/
       - name: Member
         url: members/
+      - name: Photos
+        url: photos/
       - name: Source
         url: source/
       - name: News
