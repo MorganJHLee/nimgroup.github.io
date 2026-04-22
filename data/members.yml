@@ -43,23 +43,23 @@
   photo: '/members/Adil.jpg'
   category: 'Students'
 
-- name: '王腾龙 Tenglong Wang'
-  role: 'Master student (2023)'
-  email: 'wangtl156@gmail.com'
-  photo: '/members/王腾龙.jpg'
-  category: 'Students'
+#- name: '王腾龙 Tenglong Wang'
+#  role: 'Master student (2023)'
+#  email: 'wangtl156@gmail.com'
+#  photo: '/members/王腾龙.jpg'
+#  category: 'Students'
 
-- name: '于嘉豪 Jiahao Yu'
-  role: 'Master student (2023)'
-  email: 'yjh200319@gmail.com'
-  photo: '/members/于嘉豪.jpg'
-  category: 'Students'
+#- name: '于嘉豪 Jiahao Yu'
+#  role: 'Master student (2023)'
+#  email: 'yjh200319@gmail.com'
+#  photo: '/members/于嘉豪.jpg'
+#  category: 'Students'
 
-- name: '翟亚哲 Yazhe Zhai'
-  role: 'Master student (2023)'
-  email: 'zhaiyazhe@gmail.com'
-  photo: '/members/翟亚哲.jpg'
-  category: 'Students'
+#- name: '翟亚哲 Yazhe Zhai'
+#  role: 'Master student (2023)'
+#  email: 'zhaiyazhe@gmail.com'
+#  photo: '/members/翟亚哲.jpg'
+#  category: 'Students'
 
 - name: '曹书鑫 Shuxin Cao'
   role: 'Master student (2024)'
@@ -146,18 +146,35 @@
   category: 'Students'
 
 - name: '和岚翔 Lanxiang He'
-  role: 'Undergrad student'
+  role: 'Undergrad student (2022)'
   email: 'lanxianghe809@gmail.com'
   photo: '/members/和岚翔.jpg'
   category: 'Students'
 
 - name: '李俊浩 Morgan Lee'
-  role: 'Undergrad student'
+  role: 'Undergrad student (2022)'
   email: 'm.junhao.lee@gmail.com'
   photo: '/members/李俊浩.jpg'
   category: 'Students'
 
+- name: 'Nurlan Hajizada'
+  role: 'Undergrad student (2024)'
+  email: 'nurlanhajizadeh34@gmail.com'
+  photo: '/members/nurlan.jpg'
+  category: 'Students'
+
 # ── Alumni ───────────────────────────────────────────────────────────────────
+- name: '翟亚哲'
+  bio: '科大讯飞'
+  category: 'Alumni'
+
+- name: '王腾龙'
+  bio: '上海银行（苏州）'
+  category: 'Alumni'
+
+- name: '于嘉豪'
+  bio: '上海银行（苏州）'
+  category: 'Alumni'
 
 - name: '叶晓莹'
   bio: '清华大学（深圳）'
@@ -181,10 +198,6 @@
 
 - name: '王文凯'
   bio: '悉尼大学（澳大利亚）'
-  category: 'Alumni'
-
-- name: '宋庆福'
-  bio: '研发工程师'
   category: 'Alumni'
 
 - name: '张佑华'
