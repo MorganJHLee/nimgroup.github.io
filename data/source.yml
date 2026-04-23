@@ -1,39 +1,127 @@
-- name: "NIM-BCI"
-  description: "A PyTorch-based open-source toolbox for EEG-based brain-computer interface research, covering signal preprocessing, feature extraction, neural decoding, and closed-loop experiment control. Includes reference implementations for SSVEP, P300, and motor imagery paradigms."
-  type: "Software"
-  stack: "Python / PyTorch"
-  github: "https://github.com/nimgroup/nim-bci"
-  paper: "10.1109/TNSRE.2024.3401872"
-  status: "Active"
+- name: 'Subcortical Parcellation'
+  description: 'We propose a novel framework for multiscale subcortical parcellation that combines fiber-cluster connectivity, 3D-SLIC supervoxel preparcellation, consensus graph learning, and low-rank tensor modeling. This method improves anatomical specificity and consistency across subjects, resulting in a detailed subcortical atlas with enhanced reproducibility and microstructural uniformity.'
+  type: 'Software'
+  stack: 'Python / PyTorch'
+  github: 'https://github.com/WanZhonghua/SubcorticalParcellation'
+  paper: '10.1088/1361-6560/ae399d'
+  status: 'Active'
 
-- name: "FedMedSeg"
-  description: "Federated learning framework for heterogeneous multi-site medical image segmentation. Handles non-IID scanner protocols and label distributions across institutions without sharing raw patient data. Achieves <2% Dice gap vs. centralized training on brain tumor benchmarks."
-  type: "Software"
-  stack: "Python / PyTorch / Flower"
-  github: "https://github.com/nimgroup/fedmedseg"
-  paper: "10.1038/s41467-024-48291-0"
-  status: "Active"
+- name: 'Microstructure Codebook Imaging'
+  description: 'This work presents a novel diffusion MRI framework that uses a microstructural codebook and Mamba-CNN to accurately estimate metrics from diverse biophysical models, even with limited data, while ensuring strong generalization and adaptability.'
+  type: 'Software'
+  stack: 'Python / PyTorch / Flower'
+  github: 'https://github.com/1nlandempire/Microstructure-codebook-imaging'
+  paper: '10.1002/hbm.70513'
+  status: 'Active'
 
-- name: "NIMNav"
-  description: "Real-time brain shift compensation library for intraoperative neuronavigation. Fuses intraoperative ultrasound with preoperative MRI via a deformable registration network, achieving sub-millimeter target registration error (<0.71 mm) on clinical neurosurgical cases."
-  type: "Software"
-  stack: "Python / C++ / SimpleITK"
-  github: "https://github.com/nimgroup/nimnav"
-  paper: "10.1016/j.media.2024.103142"
-  status: "Active"
+- name: 'ibTGN'
+  description: 'We developed a novel method to identify shared white-matter connectivity between human and non-human primate brains, thereby bypassing complex registration issues. By encoding brain tractography as a graph, we found locally equivalent fiber bundles, enabling consistent identification of anatomical pathways and insights into the evolution of neural circuitry related to cognition.'
+  type: 'Software'
+  stack: 'Python / C++ / SimpleITK'
+  github: 'https://github.com/secuy/Inter-Bundle_Topological_Graph_Network'
+  paper: '10.1109/ISBI60581.2025.10980995'
+  status: 'Active'
 
-- name: "NIMPath"
-  description: "Reinforcement learning environment for patient-specific neurosurgical path planning. Generates simulation scenes from segmented MRI/CT volumes and trains trajectory policies that avoid critical vascular and eloquent cortex structures. Compatible with OpenAI Gym API."
-  type: "Software"
-  stack: "Python / Gymnasium / VTK"
-  github: "https://github.com/nimgroup/nimpath"
-  paper: "10.1007/978-3-031-16449-1_38"
-  status: "Active"
+- name: 'Cross Species Cortex Parcellation'
+  description: 'This study presents a two-stage clustering framework for cross-species cortical parcellation of human and macaque brains. By integrating diffusion MRI-derived connectivity with a white matter tract atlas, we use a super-vertex clustering algorithm to identify homologous cortical regions. '
+  type: 'Software'
+  stack: 'Python / PyTorch'
+  github: 'https://github.com/NIMGroup/Cross-species-cortex-parcellation'
+  paper: '10.1109/BIBM66473.2025.11356137'
+  status: 'Active'
 
-- name: "THINGS-NIM-EEG"
-  description: "Large-scale EEG dataset for image-concept decoding research. Contains 64-channel EEG recordings from 20 healthy participants viewing 10,000 object images drawn from the THINGS concept database. Includes preprocessed epochs, ICA components, and CLIP semantic embeddings."
-  type: "Dataset"
-  stack: "MATLAB / Python"
-  github: "https://github.com/nimgroup/things-nim-eeg"
-  paper: ""
-  status: "Active"
+- name: 'RefParcel'
+  description: 'We present RefParcel, a deep learning framework for precise brain-region parcellation from diffusion MRI data using a single standard atlas. It integrates spatial priors and diffusion features, demonstrating its potential for personalized neuroimaging.'
+  type: 'Software'
+  stack: 'Python / PyTorch'
+  github: 'https://anonymous.4open.science/r/RefParcel-2007'
+  paper: ''
+  status: 'Active'
+
+- name: 'UNL-QA'
+  description: 'We developed an Unsupervised Quality Assessment tool (UNL-QA) for diffusion MRI (dMRI) that detects artifacts such as ghosting and noise without requiring labeled data. '
+  type: 'Software'
+  stack: 'Python / PyTorch'
+  github: 'https://github.com/yjh200319/React-QC_Artifact_Correction_Quality_Assessment_On_dMRI'
+  paper: '10.1109/ISBI60581.2025.10981188'
+  status: 'Active'
+
+- name: 'MEMAE'
+  description: 'MEMAE is a new approach for personalized brain injury detection that improves 3D dMRI reconstruction. By analyzing reconstruction errors from healthy data, it identifies subtle injuries and differentiates between conditions like tumor infiltration and cocaine-induced degeneration. '
+  type: 'Software'
+  stack: 'Python / PyTorch'
+  github: 'https://github.com/csx1009/MEMAE'
+  paper: ''
+  status: 'Active'
+
+- name: 'SF-Diff'
+  description: 'This paper presents a spatial-frequency information diffusion model for synthesizing high-fidelity metrics from single-shell diffusion MRI. Key innovations include a wavelet sampler to capture anatomical structure and texture, and a structure-aware loss function to enhance accuracy.'
+  type: 'Software'
+  stack: 'Python / PyTorch'
+  github: 'https://github.com/csx1009/SF-Diff'
+  paper: ''
+  status: 'Active'
+
+- name: 'ProbQuerySeg'
+  description: 'We present ProbQuerySeg, a method for efficiently identifying fiber tracts in whole-brain tractography data. By combining probabilistic masks and connectivity information, it enhances accuracy and scales linearly with the number of streamlines, overcoming limitations of traditional methods.'
+  type: 'Software'
+  stack: 'Python / PyTorch'
+  github: 'https://github.com/x-y-u/ProbQuerySeg'
+  paper: ''
+  status: 'Active'
+
+- name: 'Connectomic Cluster Atlas'
+  description: 'We developed a fiber-cluster atlas using 7T MRI data from 171 participants in the Human Connectome Project to address gaps in white matter mapping. It provides high reproducibility and identifies subclusters of classical tracts and uncharacterized U-fibers.'
+  type: 'Software'
+  stack: 'Python / PyTorch'
+  github: 'https://github.com/mushroomer1823/connectomic_cluster'
+  paper: '10.1016/j.neuroimage.2026.121704'
+  status: 'Active'
+
+- name: 'SWM Parcellation'
+  description: 'Superficial white matter (SWM) is crucial for cortico-cortical communication but has been less studied than deep white matter. Our study presents a comprehensive SWM tractography atlas based on ultra-high-field diffusion MRI, identifying and categorizing fiber clusters by their functional connections. .'
+  type: 'Software'
+  stack: 'Python / PyTorch'
+  github: 'https://github.com/mushroomer1823/swm_atlas'
+  paper: ''
+  status: 'Active'
+
+- name: 'DTRTQC'
+  description: 'This paper introduces DTRTQC, a dual-path Transformer framework that captures patient data dynamics and contextual statistical features. It effectively distinguishes analytical errors from physiological variations, improving monitoring precision.'
+  type: 'Software'
+  stack: 'Python / PyTorch'
+  github: 'https://anonymous.4open.science/r/4ECB'
+  paper: ''
+  status: 'Active'
+
+- name: 'Relaxation-Diffusion MRI Dataset in Neurosurgical Studies'
+  description: 'Relaxation-diffusion MRI (rdMRI) enhances dMRI by analyzing tissue heterogeneity at multiple TEs. We present a high-quality rdMRI dataset from 18 neurosurgical patients and 2 healthy controls, acquired with high spatial and angular resolution, and rigorously processed.'
+  type: 'Dataset'
+  stack: 'Python / MATLAB'
+  github: 'https://doi.org/10.18112/openneuro.ds004910.v1.0.0'
+  paper: '10.1038/s41597-024-03013-9'
+  status: 'Active'
+
+- name: 'East-West WM Atlas'
+  description: 'This study presents the East-West WM Atlas, facilitating the comparison of white matter connectivity between Eastern and Western populations using a harmonized diffusion MRI dataset (n=306). It aims to enhance understanding of cultural and genetic effects on cognition and mental health, providing publicly available data for future research.'
+  type: 'Dataset'
+  stack: 'Python / MATLAB'
+  github: 'https://doi.org/10.57760/sciencedb.17354'
+  paper: '10.1038/s41597-024-03624-2'
+  status: 'Active'
+
+- name: 'Relaxation-Diffusion MRI Dataset of Aging Mouse'
+  description: 'Relaxation-diffusion MRI (rdMRI) is a technique that captures diffusion MRI data at multiple echo times to analyze tissue microstructure. We present a high-quality in-vivo rdMRI dataset of aging mouse brains from five age groups (n=6 each), collected using a 9.4 T MRI scanner.'
+  type: 'Dataset'
+  stack: 'Python / MATLAB'
+  github: 'https://doi.org/10.6084/m9.figshare.28433102'
+  paper: '10.1038/s41597-025-06088-0'
+  status: 'Active'
+
+- name: 'Detailed Connectomic Cluster Resource'
+  description: 'We constructed a detailed connectomic cluster resource with 33,256 fiber clusters, based on 171 ultra-high-field diffusion MRI scans. Cortical regions connected by fibers—including functional networks and subcortical regions—were considered during fiber clustering, thereby providing functional information about the fibers.'
+  type: 'Dataset'
+  stack: 'Python / MATLAB'
+  github: 'https://doi.org/10.57760/sciencedb.28989'
+  paper: '10.1016/j.neuroimage.2026.121704'
+  status: 'Active'

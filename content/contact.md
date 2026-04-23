@@ -1,33 +1,32 @@
 ---
-title: "Contact"
+title: 'Contact'
 date: 2024-01-01
 hidemeta: true
-description: "Contact information for the NIM Group."
+description: 'Contact information for the NIM Group.'
 ---
 
 ---
 
 #### Email
 
-[PI Name]: [pi@institution.edu]
-Lab inquiries: [nimgroup@institution.edu]
+Lab inquiries: wuye@njust.edu.cn
 
 ---
 
 #### Mailing address
 
-NIM Group
-[Department]
-[Institution]
-[City, Country]
+School of Computer Science and Engineering
+Nanjing University of Science and Technology
+200 Xiaolingwei Street
+Nanjing, Jiangsu 210094
 
 ---
 
 #### Office address
 
-Room [XXX]
-[Building]
-[Institution]
+4048 No. 413 Building
+200 Xiaolingwei Street
+Xuanwu District，Nanjing, 210094, China
 
 ---
 
