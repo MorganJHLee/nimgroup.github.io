@@ -13,78 +13,108 @@
 #                large   →  2 columns × 2 rows
 # ──────────────────────────────────────────────────────────────────────────────
 
-- title: "Group Activities"
-  description: "Annual retreats, lab celebrations, and everyday moments."
+- title: 'Group Activities'
+  description: 'Annual retreats, lab celebrations, and everyday moments.'
   photos:
-    - file: "/photos/activities/DSC_2003.JPG"
-      alt: "Lab annual retreat 2024, group photo"
-      caption: "Annual Retreat 2024"
+    - file: '/photos/activities/DSC_2003.JPG'
+      alt: 'Lab annual retreat 2024, group photo'
+      caption: 'Annual Retreat 2024'
       size: wide
 
-    - file: "/photos/activities/DSC_2010.JPG"
-      alt: "Lab team dinner, winter 2023"
-      caption: "Winter Dinner 2023"
+    - file: '/photos/activities/DSC_2010.JPG'
+      alt: 'Lab team dinner, winter 2023'
+      caption: 'Winter Dinner 2023'
       size: tall
 
-    - file: "/photos/activities/lab1.jpg"
-      alt: "Lab gathering, spring 2024"
-      caption: "Spring Gathering 2024"
+    - file: '/photos/activities/lab1.jpg'
+      alt: 'Lab gathering, spring 2024'
+      caption: 'Spring Gathering 2024'
       size: normal
 
-    - file: "/photos/activities/lab2.jpg"
-      alt: "Full lab group photo, spring 2025"
-      caption: "Spring 2025 All-Hands"
+    - file: '/photos/activities/lab2.jpg'
+      alt: 'Full lab group photo, spring 2025'
+      caption: 'Spring 2025 All-Hands'
       size: normal
 
-    - file: "/photos/activities/lab3.jpg"
-      alt: "Lab birthday celebration"
-      caption: "Lab Birthday Celebration"
+    - file: '/photos/activities/lab3.jpg'
+      alt: 'Lab birthday celebration'
+      caption: 'Lab Birthday Celebration'
       size: large
 
-    - file: "/photos/activities/lab3.jpg"
-      alt: "Lab birthday celebration"
-      caption: "Lab Birthday Celebration"
+    - file: '/photos/activities/lab4.jpg'
+      alt: 'Lab birthday celebration'
+      caption: 'Lab Birthday Celebration'
       size: large
 
-- title: "Conferences"
-  description: "Presentations and networking at academic venues."
+    - file: '/photos/activities/IMG_7197.JPG'
+      alt: 'Lab team dinner, winter 2026'
+      caption: 'Winter Dinner 2026'
+      size: tall
+
+    - file: '/photos/activities/IMG_7195.jpeg'
+      alt: 'Lab gathering, spring 2026'
+      caption: 'Spring Gathering 2026'
+      size: normal
+
+    - file: '/photos/activities/IMG_7209.jpeg'
+      alt: 'Lab gathering, spring 2026'
+      caption: 'Spring Gathering 2026'
+      size: normal
+
+- title: 'Conferences'
+  description: 'Presentations and networking at academic venues.'
   photos:
-    - file: "/photos/conferences/BIBM2024_1.jpg"
-      alt: "MICCAI 2024 poster session"
-      caption: "MICCAI 2024"
+    - file: '/photos/conferences/BIBM2024_1.jpg'
+      alt: 'MICCAI 2024 poster session'
+      caption: 'MICCAI 2024'
       size: normal
 
-    - file: "/photos/conferences/BIBM2024_2.jpg"
-      alt: "ISMRM 2024 oral presentation"
-      caption: "ISMRM 2024"
-      size: wide
-
-    - file: "/photos/conferences/BIBM2024_3.jpg"
-      alt: "Group photo at conference"
-      caption: "Conference Group Photo"
+    - file: '/photos/conferences/BIBM2024_2.jpg'
+      alt: 'ISMRM 2024 oral presentation'
+      caption: 'ISMRM 2024'
       size: tall
 
-    - file: "/photos/conferences/BME2024_1.jpg"
-      alt: "MICCAI 2024 poster session"
-      caption: "MICCAI 2024"
+    - file: '/photos/conferences/BIBM2024_3.jpg'
+      alt: 'Group photo at conference'
+      caption: 'Conference Group Photo'
       size: normal
 
-    - file: "/photos/conferences/BME2024_2.jpg"
-      alt: "ISMRM 2024 oral presentation"
-      caption: "ISMRM 2024"
-      size: wide
+    - file: '/photos/conferences/BME2024_1.jpg'
+      alt: 'MICCAI 2024 poster session'
+      caption: 'MICCAI 2024'
+      size: normal
 
-    - file: "/photos/conferences/BME2024_4.jpg"
-      alt: "Group photo at conference"
-      caption: "Conference Group Photo"
+    - file: '/photos/conferences/BME2024_2.jpg'
+      alt: 'ISMRM 2024 oral presentation'
+      caption: 'ISMRM 2024'
+      size: normal
+
+    - file: '/photos/conferences/BME2024_4.jpg'
+      alt: 'Group photo at conference'
+      caption: 'Conference Group Photo'
+      size: normal
+
+    - file: '/photos/conferences/VALSE204_1.jpg'
+      alt: 'Group photo at conference'
+      caption: 'Conference Group Photo'
+      size: normal
+
+    - file: '/photos/conferences/WAIC2024.jpg'
+      alt: 'Group photo at conference'
+      caption: 'Conference Group Photo'
+      size: normal
+
+    - file: '/photos/conferences/ISBI2026_1.jpg'
+      alt: 'Group photo at conference'
+      caption: 'Conference Group Photo'
       size: tall
 
-    - file: "/photos/conferences/VALSE204_1.jpg"
-      alt: "Group photo at conference"
-      caption: "Conference Group Photo"
+    - file: '/photos/conferences/ISBI2026_2.jpg'
+      alt: 'Group photo at conference'
+      caption: 'Conference Group Photo'
       size: tall
 
-    - file: "/photos/conferences/WAIC2024.jpg"
-      alt: "Group photo at conference"
-      caption: "Conference Group Photo"
-      size: tall
+    - file: '/photos/conferences/ISBI2026_3.jpg'
+      alt: 'Group photo at conference'
+      caption: 'Conference Group Photo'
+      size: normal
