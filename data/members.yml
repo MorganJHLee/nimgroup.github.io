@@ -163,17 +163,17 @@
   photo: '/members/谢念芳.jpg'
   category: 'Students'
 
-- name: '和岚翔 Lanxiang He'
-  role: 'Undergrad student (2022)'
-  email: 'lanxianghe809@gmail.com'
-  photo: '/members/和岚翔.jpg'
-  category: 'Students'
+#- name: '和岚翔 Lanxiang He'
+#  role: 'Undergrad student (2022)'
+#  email: 'lanxianghe809@gmail.com'
+#  photo: '/members/和岚翔.jpg'
+#  category: 'Students'
 
-- name: '李俊浩 Morgan Lee'
-  role: 'Undergrad student (2022)'
-  email: 'm.junhao.lee@gmail.com'
-  photo: '/members/李俊浩.jpg'
-  category: 'Students'
+#- name: '李俊浩 Morgan Lee'
+#  role: 'Undergrad student (2022)'
+#  email: 'm.junhao.lee@gmail.com'
+#  photo: '/members/李俊浩.jpg'
+#  category: 'Students'
 
 - name: 'Nurlan Hajizada'
   role: 'Undergrad student (2024)'
@@ -182,6 +182,14 @@
   category: 'Students'
 
 # ── Alumni ───────────────────────────────────────────────────────────────────
+- name: '李俊浩'
+  bio: '乌特勒支大学（荷兰）'
+  category: 'Alumni'
+
+- name: '和岚翔'
+  bio: '北京邮电大学'
+  category: 'Alumni'
+
 - name: '翟亚哲'
   bio: '科大讯飞'
   category: 'Alumni'
