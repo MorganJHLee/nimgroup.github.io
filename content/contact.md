@@ -1,6 +1,6 @@
 ---
-title: 'Contact'
-date: 2024-01-01
+title: 'NIMG 英雄贴'
+date: 2026-06-01
 hidemeta: true
 description: 'NIMG实验室研究生英雄贴'
 ---
