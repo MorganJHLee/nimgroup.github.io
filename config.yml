@@ -1,5 +1,5 @@
 baseURL: 'https://nimgroup.github.io/'
-title: NIMGroup
+title: NIMG
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -39,8 +39,8 @@ menu:
       weight: 8
 
 params:
-  description: 'NIMGroup researches AI and machine learning for intelligent medicine, with a focus on neural navigation and image-enabled brain-computer interfaces.'
-  author: NIMGroup
+  description: 'NIMG researches AI and machine learning for intelligent medicine, with a focus on neural navigation and image-enabled brain-computer interfaces.'
+  author: NIMG
   # googleAnalyticsID: "G-XXXXX"
   DateFormat: 'January 2006'
   defaultTheme: light
@@ -64,7 +64,7 @@ params:
   math: true
   profileMode:
     enabled: true
-    title: NIMGroup
+    title: NIMG
     subtitle: 'Welcome to the Neuroimaging in Intelligent Medicine Group (NIMG) at Nanjing University of Science and Technology (NJUST). We focus on innovative computational neuroimaging and AI solutions for brain science, centered on three key areas: circuit-based precision neuronavigation, non-invasive AI-powered virtual biopsy imaging, and neuroimage-driven brain-computer interfaces. Our research drives advancements in healthcare AI and neuroscience, with applications in brain development, neural evolution, and the diagnosis of brain disorders. We aim to provide practical, clinically relevant solutions to scientific challenges, combining engineering precision with impact on brain health.'
     imageUrl: 'logo.png'
     imageWidth: 160
@@ -119,7 +119,7 @@ params:
     hiddenInList: false
     hiddenInSingle: true
   label:
-    text: 'NIMGroup'
+    text: 'NIMG'
     icon: logo.png
     iconHeight: 40
     iconWidth: 56
