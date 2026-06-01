@@ -8,12 +8,12 @@ hidemeta: true
 | :-------- | :-- | :----------------------------------------------------------------------------------------------------------------------- |
 | June 2026 |     | :sparkles: One paper was accepted by `iScience`                                                                          |
 | May 2026  |     | :sparkles: One paper was accepted by `Alpha Psychiatry`                                                                  |
-| May 2026  |     | :sparkles: Twos papers were accepted by `ICIP 2026`                                                                      |
+| May 2026  |     | :sparkles: Two papers were accepted by `ICIP 2026`                                                                       |
 | May 2026  |     | :sparkles: Two invention patents were granted.                                                                           |
-| May 2026  |     | :sparkles: Twos papers were accepted by `BME 2026`                                                                       |
+| May 2026  |     | :sparkles: Two papers were accepted by `BME 2026`                                                                        |
 | Mar 2026  |     | :sparkles: One paper was accepted by `Human Brain Mapping`                                                               |
 | Mar 2026  |     | :sparkles: One paper was accepted by `BMC Medicine`                                                                      |
-| Feb 2026  |     | :sparkles: Twos papers were accepted by `ISMRM 2026`, One for Oral Presentation and one for Poster Presentation          |
+| Feb 2026  |     | :sparkles: Two papers were accepted by `ISMRM 2026`, One for Oral Presentation and one for Poster Presentation           |
 | Feb 2026  |     | :sparkles: Six papers were accepted by `ISBI 2026`, 4 for oral presentations and 2 for poster                            |
 | Jan 2026  |     | :sparkles: One paper was accepted by `Frontiers in Psychiatry`                                                           |
 | Jan 2026  |     | :sparkles: One paper was accepted by `Physics in Medicine and Biology`                                                   |
