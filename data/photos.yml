@@ -61,6 +61,16 @@
       caption: 'Spring Gathering 2026'
       size: normal
 
+    - file: '/photos/activities/act1.jpg'
+      alt: 'Lab activity'
+      caption: 'Lab Activity'
+      size: normal
+
+    - file: '/photos/activities/act2.jpg'
+      alt: 'Lab activity'
+      caption: 'Lab Activity'
+      size: wide
+
 - title: 'Conferences'
   description: 'Presentations and networking at academic venues.'
   photos:
@@ -118,3 +128,128 @@
       alt: 'Group photo at conference'
       caption: 'Conference Group Photo'
       size: normal
+
+    - file: '/photos/conferences/BIBM2024_4.jpg'
+      alt: 'BIBM 2024 conference'
+      caption: 'BIBM 2024'
+      size: wide
+
+    - file: '/photos/conferences/BME2024_3.jpg'
+      alt: 'BME 2024 conference'
+      caption: 'BME 2024'
+      size: normal
+
+    - file: '/photos/conferences/BME2026_1.jpg'
+      alt: 'BME 2026 conference'
+      caption: 'BME 2026'
+      size: tall
+
+    - file: '/photos/conferences/BME2026_2.jpg'
+      alt: 'BME 2026 conference'
+      caption: 'BME 2026'
+      size: normal
+
+    - file: '/photos/conferences/BME2026_3.jpg'
+      alt: 'BME 2026 conference'
+      caption: 'BME 2026'
+      size: normal
+
+    - file: '/photos/conferences/BME2026_4.jpg'
+      alt: 'BME 2026 conference'
+      caption: 'BME 2026'
+      size: wide
+
+    - file: '/photos/conferences/BME2026_5.jpg'
+      alt: 'BME 2026 conference'
+      caption: 'BME 2026'
+      size: normal
+
+    - file: '/photos/conferences/VALSE204_2.jpg'
+      alt: 'VALSE 2024 conference'
+      caption: 'VALSE 2024'
+      size: tall
+
+    - file: '/photos/conferences/IMG_4699.jpeg'
+      alt: 'Conference'
+      caption: 'Conference'
+      size: normal
+
+    - file: '/photos/conferences/IMG_4700.jpeg'
+      alt: 'Conference'
+      caption: 'Conference'
+      size: normal
+
+    - file: '/photos/conferences/IMG_4701.jpeg'
+      alt: 'Conference'
+      caption: 'Conference'
+      size: wide
+
+    - file: '/photos/conferences/IMG_4702.jpeg'
+      alt: 'Conference'
+      caption: 'Conference'
+      size: normal
+
+    - file: '/photos/conferences/IMG_4703.jpeg'
+      alt: 'Conference'
+      caption: 'Conference'
+      size: tall
+
+    - file: '/photos/conferences/IMG_5797.jpeg'
+      alt: 'Conference'
+      caption: 'Conference'
+      size: normal
+
+    - file: '/photos/conferences/IMG_5798.jpeg'
+      alt: 'Conference'
+      caption: 'Conference'
+      size: normal
+
+    - file: '/photos/conferences/conf1.jpg'
+      alt: 'Conference'
+      caption: 'Conference'
+      size: wide
+
+    - file: '/photos/conferences/conf2.jpg'
+      alt: 'Conference'
+      caption: 'Conference'
+      size: normal
+
+    - file: '/photos/conferences/conf3.jpg'
+      alt: 'Conference'
+      caption: 'Conference'
+      size: normal
+
+    - file: '/photos/conferences/conf4.jpg'
+      alt: 'Conference'
+      caption: 'Conference'
+      size: tall
+
+    - file: '/photos/conferences/conf5.jpg'
+      alt: 'Conference'
+      caption: 'Conference'
+      size: normal
+
+    - file: '/photos/conferences/conf6.jpg'
+      alt: 'Conference'
+      caption: 'Conference'
+      size: normal
+
+    - file: '/photos/conferences/conf7.jpg'
+      alt: 'Conference'
+      caption: 'Conference'
+      size: wide
+
+    - file: '/photos/conferences/conf8.jpg'
+      alt: 'Conference'
+      caption: 'Conference'
+      size: normal
+
+    - file: '/photos/conferences/conf9.jpg'
+      alt: 'Conference'
+      caption: 'Conference'
+      size: normal
+
+    - file: '/photos/conferences/conf10.jpg'
+      alt: 'Conference'
+      caption: 'Conference'
+      size: tall
