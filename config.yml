@@ -1,5 +1,5 @@
 baseURL: 'https://nimgroup.github.io/'
-title: NIMG
+title: Neuroimage Intelligence Mapping Group（NIMG）
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -65,7 +65,7 @@ params:
   profileMode:
     enabled: true
     title: NIMG
-    subtitle: 'Welcome to the Neuroimaging in Intelligent Medicine Group (NIMG) at Nanjing University of Science and Technology (NJUST). We focus on innovative computational neuroimaging and AI solutions for brain science, centered on three key areas: circuit-based precision neuronavigation, non-invasive AI-powered virtual biopsy imaging, and neuroimage-driven brain-computer interfaces. Our research drives advancements in healthcare AI and neuroscience, with applications in brain development, neural evolution, and the diagnosis of brain disorders. We aim to provide practical, clinically relevant solutions to scientific challenges, combining engineering precision with impact on brain health.'
+    subtitle: '我们面向脑科学、智能医学与脑机接口的交叉前沿，发展计算神经影像、脑连接组分析、影像驱动脑机接口、精准神经导航、人脑数字孪生与 AI for Health 等核心技术，探索从脑结构、脑功能、脑网络到临床诊疗决策的智能映射机制。NIMG 不追求简单堆模型、刷榜或内卷式科研，而是关注真实科学问题、可解释方法、可复现系统与临床转化价值。我们希望把每一个研究想法做成可发表的论文、可运行的代码、可演示的系统和可持续扩展的工具。这里欢迎有好奇心、有创造力、有工程能力、愿意从 0 到 1 解决问题的研究生、博士后和青年合作者加入，一起推动 AI 从“处理医学图像”走向“理解大脑、连接智能、服务健康”。'
     imageUrl: 'logo.png'
     imageWidth: 160
     imageHeight: 115
