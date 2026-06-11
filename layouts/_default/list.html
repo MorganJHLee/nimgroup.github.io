@@ -101,6 +101,10 @@
 </footer>
 {{- end }}
 
+{{- if (.Param "comments") }}
+{{- partial "comments.html" . }}
+{{- end }}
+
 {{- end }}{{/* end profileMode */}}
 
 {{- end }}{{- /* end main */ -}}
