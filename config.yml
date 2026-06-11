@@ -34,9 +34,9 @@ menu:
     - name: News
       url: news/
       weight: 7
-    - name: Contact
-      url: contact/
-      weight: 8
+#    - name: Contact
+#      url: contact/
+#      weight: 8
 
 params:
   description: 'NIMG researches AI and machine learning for intelligent medicine, with a focus on neural navigation and image-enabled brain-computer interfaces.'
@@ -84,8 +84,8 @@ params:
         url: source/
       - name: News
         url: news/
-      - name: Contact
-        url: contact/
+#      - name: Contact
+#        url: contact/
 
   socialIcons:
     #- name: CV

@@ -1,88 +1,111 @@
 ---
 title: 'About'
-date: 2024-01-01
+date: 2026-06-01
 hidemeta: true
-description: 'About the NIMGroup — AI and machine learning for intelligent medicine.'
+description: '关于NIMG实验室，一些想说的话'
 ---
 
 ---
 
-#### About NIMG
+## 来做一点“不只是发论文”的AI4NeuroScience
 
-Based at Nanjing University of Science and Technology (NJUST), the Neuroimaging in Intelligent Medicine Group (NIMG) is a dynamic and interdisciplinary research hub. We advance neuroimaging computing to solve key challenges in neuroscience and clinical medicine. Our core mission is to develop robust, innovative solutions linking artificial intelligence, computational medical imaging, and translational neuroscience. We focus relentlessly on turning advanced research into real impacts for human health.
+你是否想过：
+AI 能不能真正“看懂”大脑？
+脑机接口能不能不只停留在信号分类，而是理解脑网络、脑连接和脑功能？
+医学影像能不能从“医生看的图”，变成神经导航、精准诊疗和智能医学系统的核心引擎？
 
-Rooted in cross-disciplinary collaboration and open innovation, NIMG’s work transcends traditional boundaries. We merge edge AI computing, multimodal neuroimaging, and integrative medicine, combining Western neurology and Traditional Chinese Medicine (TCM). This approach redefines the diagnosis, monitoring, and treatment of neurological disorders. Our research targets unmet needs in global healthcare. We focus on early detection of neurodegenerative diseases and improving diagnostic access in underserved regions. Our tools empower clinicians and researchers with precise, non-invasive, and low-cost solutions.
-
----
-
-#### Research Focus
-
-NIMG’s research portfolio centers on three transformative, high-impact directions. We combine technical innovation with clinical relevance. This sets us apart as a leader in neuroimaging and intelligent medicine.
-
-- **Neuro-AI Integrated Diagnostic and Interventional Platform (NAIDIP)** —
-
-A paradigm-shifting initiative that revolutionizes neurological care by fusing edge AI computing, multimodal neuroimaging, and AI-driven clinical decision support with TCM—an integration unique to NIMG’s research vision.
-
-- This project is built using free, widely available software and a system that enables computers to work together from different locations. It can analyze data right away, keep patient information private, and can be used in hospitals with limited resources, even in small towns.
-- Our AI-assisted TCM diagnosis module demonstrates 87.37% accuracy in pattern recognition via tongue image analysis. We also validate acupuncture's neural mechanisms using fMRI/dMRI, supporting treatment plans that combine deep brain stimulation (DBS), transcranial magnetic stimulation (TMS), acupuncture, and herbal medicine.
-- NAIDIP broadens access to advanced neuro-AI tools, ensuring that precision diagnostics and personalized interventions reach both urban hospitals and resource-limited regions.
-
-* **Diffusion MRI-based Virtual Biopsy** —
-
-A groundbreaking non-invasive technique to analyze brain microenvironmental heterogeneity—addressing a critical gap in clinical neuroscience by eliminating the need for invasive tissue sampling.
-
-- Core Breakthroughs: We advance high spatiotemporal-resolution diffusion MRI (via continuous-relaxation diffusion sequences and non-centered gradient encoding), develop learnable microstructural-spectrum imaging models, and apply conformal geometric tractography to map intra- and extra-myelin tracts.
-- Using a model that mimics tissue analysis, we combine information from multiple sources to detect subtle, early changes in the brain, such as those associated with tumors or multiple sclerosis. It allows for earlier diagnosis and more personal treatment plans, similar to what a physical biopsy would provide.
-- We aim to build reliable methods for detecting brain problems without surgery. This should help patients get care sooner and more accurately.
-
-* **Diffusion MRI-based Targeted Fingerprinting for Neural Circuit Regulation in Neurological Diseases** —
-
-Our work addresses the unmet need for early, precise diagnosis of neurodegenerative diseases (Alzheimer’s, Parkinson’s) by developing neural circuit-specific "fingerprints" via diffusion MRI and AI.
-
-- We use brain scans to detect small changes in the brain’s wiring. Then we apply AI and advanced computational tools to identify unique markers of disease from medical records, genes, and images.
-- These patterns help us detect diseases early, predict their progression and track how patients respond to treatment.
-- By combining detailed scans and computer analysis across multiple data sources, we find new ways to treat brain disorders and accelerate the development of better treatments.
-
-Across all projects, NIMG’s research is unified by a commitment to:
-
-- Developing computationally elegant, robust methods for neuroimaging analysis;
-- Translating basic science to clinical practice;
-- Advancing equitable access to intelligent medicine globally.
+我们是一支面向 **人工智能 × 脑科学 × 医学影像 × 脑机接口 × 神经导航** 的交叉研究团队。课题组不追求“堆模型、刷榜、卷参数”，更希望和学生一起提出真正有价值的问题，并用尽可能简单、有效、可落地的方法解决它。
 
 ---
 
-#### Affiliation
+## 我们在做什么？
 
-School of Computer Science and Engineering
+我们的研究不是单纯训练一个模型，而是希望让 AI 成为理解大脑、辅助临床和连接未来智能医学的工具。
 
-Nanjing University of Science and Technology
+你可以参与的方向包括：
 
-200 Xiaolingwei Street, Xuanwu District
+**1. 神经导航与智能医学系统**
+让 AI 帮助医生更精准地定位脑区、理解脑网络、规划干预路径，服务神经外科、神经调控和精准诊疗。
 
-Nanjing, China
+**2. 医学图像分析与计算神经成像**
+发展新的 MRI / diffusion MRI / functional MRI 分析方法，探索大脑结构、连接、微环境和疾病变化。
+
+**3. 影像赋能脑机接口**
+把脑影像、脑网络和人工智能结合起来，让脑机接口不只是“读信号”，而是更深层地理解大脑状态与个体差异。
+
+**4. AI for Health 与人脑数字孪生**
+面向脑疾病、智能诊疗、个体化预测和医学大模型，探索可解释、可信、临床有用的 AI 方法。
 
 ---
 
-#### Join Us
+## 我们希望培养什么样的学生？
 
-We are a young, inclusive team driven by creativity and collaboration. We welcome motivated individuals passionate about intelligent medicine and neuroimaging. All qualified applicants receive equal consideration regardless of background.
+不是流水线上的“论文工人”，而是能够独立发现问题、定义问题、解决问题的人。
 
-- Graduate Students
+在这里，每位学生都会根据自己的兴趣、能力、职业规划和课题组需求，设计相对个性化的研究方向。你可以走学术路线，也可以面向产业和应用；可以深入算法方法，也可以做系统平台；可以关注论文发表，也可以做开源工具、软件系统和临床转化。
 
-We recruit 4–7 master’s students annually. Ideal candidates are self-motivated and eager to work on neuro-AI, diffusion MRI, or translational neuroscience.
+我们希望你最终带走的不只是几篇论文，而是：
 
-How to apply: Email a PDF CV to wuye[at]njust.edu.cn to discuss opportunities and project alignment.
+能独立做科研的能力；
+能把想法变成代码、系统和产品的能力；
+能讲清楚一个科学问题的能力；
+能在未来学术界、工业界或交叉创新领域继续成长的能力。
 
-- Undergraduate Trainees
+---
 
-We select 2–3 undergraduate trainees each year. Past trainees have gone on to excel in neuroscience, AI, and medical imaging.
+## 课题组风格：自由，但不放养；严格，但不内耗
 
-How to apply: Email your CV (GPA, major, courses, research experience, weekly availability, future goals) to wuye[at]njust.edu.cn.
+我们不打卡，不规定每天必须在实验室坐多久，也不会用形式主义管理科研。
+但我们非常重视诚信、效率、责任和真实进展。
 
-- Postdoctoral Positions
+你可以因为上课、考试、回家、旅行、实习、恋爱等原因安排自己的时间，只要真诚沟通、有效推进科研即可。
+我们不接受凑结果、凑问题、凑汇报、敷衍应付。科研可以慢，但不能假；问题可以难，但不能糊弄。
 
-Two postdoctoral positions are open for candidates with a PhD in Computer Science, Engineering, Physics, Biomedical Engineering, or related fields, ideally with expertise in functional or diffusion MRI.
+我会和学生一对一讨论课题，帮助解决具体问题、关键难题和发展规划。课题完成后，我们要公开代码、提供测试 DEMO 和详细文档，让研究真正可复现、可传播、可延续。
 
-How to apply: Submit a PDF package (CV, summary of research background/interests, and optional reference letters) to wuye[at]njust.edu.cn. For full details, see: https://rs.njust.edu.cn/ab/af/c13149a240559/page.htm.
+---
 
-At NIMG, you will find a supportive environment with opportunities to publish in top journals and contribute to the future of intelligent medicine.
+## 你能获得什么？
+
+**前沿方向**：脑机接口、神经导航、医学图像分析、智能医学、人脑数字孪生，都是 AI 与生命健康交叉的关键赛道。
+**真实科研训练**：从科学问题、算法设计、代码实现、实验验证到论文写作，全流程参与。
+**充足计算资源**：课题组拥有独立服务器、私有云和共享计算平台。
+**稳定科研支持**：课题组经费充足，提供充足的支持。
+**无杂事，多科研**：课题组有专职科研助理，学生所有精力用于科研本身。
+**学术交流机会**：参加国内外高水平会议，也支持国际交流访问。
+**清晰成长出口**：无论未来读博、出国、进高校、去大厂、做医疗 AI、参与创新创业，都希望你能带着真正的能力离开。
+
+---
+
+## 我们欢迎这样的你
+
+你不一定已经很强，但最好有强烈好奇心。
+你不一定论文很多，但最好愿意长期钻研一个问题。
+你不一定来自名校，但必须尊重他人、诚实负责。
+你不一定什么都会，但至少应熟练掌握一门编程语言，推荐 Python / Matlab，也欢迎 Java / C / C++ 等背景。
+你可以是计算机、人工智能、自动化、电子信息、生物医学工程、医学影像、数学、物理、临床医学等相关背景。
+
+如果你喜欢跨学科，愿意在 AI 和脑科学之间搭桥；
+如果你不满足于做“又一个模型”，而想做真正有科学意义和临床价值的研究；
+如果你希望研究生阶段既自由、真诚，又高强度成长——
+
+欢迎加入 NIMG。
+
+---
+
+## 招生对象
+
+博士研究生：本科直博、硕博连读、申请考核等
+硕士研究生：推免、统招
+博士后 / 助理研究员：长期欢迎
+本科生：欢迎提前参与科研训练、本科毕设
+
+每年计划招收博士研究生 1–2 名、硕士研究生 3–4 名。
+
+---
+
+## 联系方式
+
+联系邮箱：[wuye@njust.edu.cn](mailto:wuye@njust.edu.cn)
+
+南京理工大学 （南京校区）计算机科学与工程学院 鼎新楼4048
