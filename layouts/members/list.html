@@ -81,4 +81,8 @@
 </ul>
 {{- end }}
 
+{{- if (.Param "comments") }}
+{{- partial "comments.html" . }}
+{{- end }}
+
 {{- end }}{{/* end main */}}
