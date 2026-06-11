@@ -60,7 +60,7 @@ params:
   TocOpen: true
   ShowWordCount: false
   UseHugoToc: true
-  comments: false
+  comments: true
   math: true
   profileMode:
     enabled: true
