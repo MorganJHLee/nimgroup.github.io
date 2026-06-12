@@ -1,0 +1,16 @@
+{{- if and (not .IsHome) (.Param "comments") }}
+<div class="comments-toggle-section">
+  <button class="comments-toggle-btn" onclick="toggleComments(this)">💬 显示评论</button>
+  <div class="comments-body" hidden>
+    {{- partial "comments.html" . }}
+  </div>
+</div>
+<script>
+function toggleComments(btn) {
+  var body = btn.nextElementSibling;
+  var hidden = body.hasAttribute('hidden');
+  body.toggleAttribute('hidden');
+  btn.textContent = hidden ? '🔼 隐藏评论' : '💬 显示评论';
+}
+</script>
+{{- end }}
